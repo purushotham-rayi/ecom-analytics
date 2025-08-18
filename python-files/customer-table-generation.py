@@ -80,6 +80,7 @@ def generate_customer_data():
             finally:
                 customer_batch.clear()
         time.sleep(0.1)
+    
 
 generate_customer_data()
 

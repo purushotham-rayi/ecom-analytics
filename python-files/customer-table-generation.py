@@ -55,7 +55,7 @@ def customer_id_check():
 
 # Function that generates the mock data
 def generate_customer_data():
-    for i in range(0,1000):
+    for i in range(0,10000):
 
         try:
             customer={
@@ -64,7 +64,7 @@ def generate_customer_data():
             'last_name': fake.last_name(),
             'email': fake.email(),
             'phone': fake.phone_number(),
-            'created_at':str(fake.date_time_between(start_date='-3y',end_date='now'))
+            'created_at':str(fake.date_time_between(start_date='-6y',end_date='-2d'))
         }
             customer_batch.append(customer)
         except ValueError as f:
@@ -79,7 +79,7 @@ def generate_customer_data():
                 print('BulkWriteError: ',e)
             finally:
                 customer_batch.clear()
-        time.sleep(0.1)
+        time.sleep(1)
     
 
 generate_customer_data()

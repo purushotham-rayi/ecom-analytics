@@ -1,0 +1,1001 @@
+product_id,product_name,category,subcategory,brand,cost_price,price,current_stock,reorder_level
+PROD00001,Atomic Habits,Books,Non-Fiction,Random House,40.23,73.68,80,25
+PROD00002,Area Rug,Home & Garden,Home Decor,Stanley,207.56,357.14,300,100
+PROD00003,Camping Stove,Sports,Outdoor Sports,Nike,183.6,336.27,300,150
+PROD00004,Cricket Bat,Sports,Team Sports,Wilson,795.84,1440.03,200,100
+PROD00005,Resistance Bands,Sports,Fitness & Gym Equipment,Spalding,55.74,80.73,300,50
+PROD00006,Educated,Books,Non-Fiction,Scholastic,10.25,16.64,90,30
+PROD00007,Mountain Bike,Sports,Outdoor Sports,Wilson,614.96,957.42,200,50
+PROD00008,Denim Shirt,Clothing,Shirts & Tops,Puma,34.11,53.78,100,60
+PROD00009,The Power of Habit,Books,Non-Fiction,Scholastic,43.79,78.59,60,25
+PROD00010,Toolbox Kit,Home & Garden,Tools & DIY,Stanley,377.17,615.03,400,50
+PROD00011,Calculus Made Easy,Books,Educational & Textbooks,Simon & Schuster,6.78,11.83,200,50
+PROD00012,Samsung Galaxy S25,Electronics,Smartphones & Tablets,Apple,745.56,1382.48,500,50
+PROD00013,Lenovo ThinkPad X1,Electronics,Laptops & Computers,HP,1589.26,2774.89,500,100
+PROD00014,Introduction to Psychology,Books,Educational & Textbooks,Penguin,21.19,34.24,80,40
+PROD00015,Bookshelf,Home & Garden,Furniture,Stanley,1442.55,2309.23,400,150
+PROD00016,OnePlus 12,Electronics,Smartphones & Tablets,Bose,1467.44,2234.19,500,50
+PROD00017,Patio Furniture Set,Home & Garden,Outdoor & Patio,Stanley,1091.49,1944.14,200,100
+PROD00018,Cocktail Dress,Clothing,Dresses & Skirts,Adidas,163.64,346.72,200,50
+PROD00019,Nike Air Force 1,Clothing,Footwear,Uniqlo,191.45,309.52,100,50
+PROD00020,Cookware Set,Home & Garden,Kitchen & Dining,Ashley Furniture,1185.86,2286.77,200,50
+PROD00021,Tent,Sports,Outdoor Sports,Decathlon,395.87,736.57,400,150
+PROD00022,Cookware Set,Home & Garden,Kitchen & Dining,Bosch,885.3,1642.44,300,100
+PROD00023,Surfboard,Sports,Water Sports,Spalding,429.43,713.37,100,100
+PROD00024,Dell XPS 15,Electronics,Laptops & Computers,Sony,697.3,1391.12,400,100
+PROD00025,Atomic Habits,Books,Non-Fiction,Simon & Schuster,10.06,19.2,50,20
+PROD00026,Sweatband,Sports,Sportswear & Accessories,Wilson,43.39,64.81,400,50
+PROD00027,Denim Jacket,Clothing,Jackets & Outerwear,Levi's,170.1,261.68,200,50
+PROD00028,Fujifilm X-T5,Electronics,Cameras & Accessories,Bose,1647.68,3138.45,300,50
+PROD00029,Toolbox Kit,Home & Garden,Tools & DIY,IKEA,159.25,273.72,400,100
+PROD00030,Formal Blue Shirt,Clothing,Shirts & Tops,Adidas,173.23,282.56,200,60
+PROD00031,Running Shorts,Sports,Sportswear & Accessories,Nike,442.78,765.44,400,50
+PROD00032,Tent,Sports,Outdoor Sports,Decathlon,89.48,168.44,400,100
+PROD00033,Matilda,Books,Children’s Books,Random House,31.45,54.86,90,30
+PROD00034,Asus ROG Zephyrus,Electronics,Laptops & Computers,Canon,1068.44,1795.28,100,50
+PROD00035,IKEA Dining Table,Home & Garden,Furniture,Stanley,326.13,631.74,100,50
+PROD00036,Vans Old Skool,Clothing,Footwear,Zara,30.04,55.93,100,30
+PROD00037,Converse Chuck Taylor,Clothing,Footwear,Uniqlo,41.84,66.5,50,50
+PROD00038,Graphic T-Shirt,Clothing,Shirts & Tops,Puma,94.22,181.38,200,20
+PROD00039,Jogger Pants,Clothing,Pants & Jeans,H&M,95.84,231.6,60,20
+PROD00040,Hammock,Home & Garden,Outdoor & Patio,Ashley Furniture,856.81,1671.71,100,150
+PROD00041,Nikon Z8,Electronics,Cameras & Accessories,Fitbit,1896.66,3126.3,500,100
+PROD00042,Hiking Backpack,Sports,Outdoor Sports,Spalding,173.79,278.8,400,50
+PROD00043,Fitbit Charge 6,Electronics,Wearables & Smart Devices,HP,1384.18,2451.34,100,150
+PROD00044,Data Science for Dummies,Books,Educational & Textbooks,Scholastic,11.28,17.89,90,30
+PROD00045,Camping Stove,Sports,Outdoor Sports,Wilson,22.08,32.93,400,100
+PROD00046,Wilson Basketball,Sports,Team Sports,Puma,299.94,494.28,100,100
+PROD00047,Cargo Pants,Clothing,Pants & Jeans,Puma,47.23,117.96,60,30
+PROD00048,iPad Pro 12.9,Electronics,Smartphones & Tablets,Fitbit,472.08,885.77,400,50
+PROD00049,Cocktail Dress,Clothing,Dresses & Skirts,Uniqlo,50.68,90.05,50,50
+PROD00050,Samsung Galaxy S25,Electronics,Smartphones & Tablets,Dell,1229.11,2062.51,100,50
+PROD00051,Microwave Oven,Home & Garden,Kitchen & Dining,Ashley Furniture,279.81,374.77,100,50
+PROD00052,The Power of Habit,Books,Non-Fiction,HarperCollins,34.8,57.02,80,25
+PROD00053,Sweatband,Sports,Sportswear & Accessories,Adidas,298.78,456.58,400,50
+PROD00054,Green Eggs and Ham,Books,Children’s Books,HarperCollins,7.86,13.37,200,30
+PROD00055,Jogger Pants,Clothing,Pants & Jeans,Levi's,53.33,105.31,60,20
+PROD00056,Timberland Boots,Clothing,Footwear,Nike,137.46,336.99,50,50
+PROD00057,Treadmill,Sports,Fitness & Gym Equipment,Wilson,697.67,1069.73,300,100
+PROD00058,Sweatband,Sports,Sportswear & Accessories,Spalding,222.47,391.19,100,100
+PROD00059,GoPro Hero 12,Electronics,Cameras & Accessories,Samsung,1042.47,1776.3,500,50
+PROD00060,Winter Parka,Clothing,Jackets & Outerwear,H&M,149.5,325.83,60,50
+PROD00061,Blazer Jacket,Clothing,Jackets & Outerwear,Levi's,21.01,38.34,100,30
+PROD00062,Running Shorts,Sports,Sportswear & Accessories,Wilson,506.58,917.05,300,100
+PROD00063,The Gruffalo,Books,Children’s Books,Penguin,23.73,46.46,70,50
+PROD00064,Green Eggs and Ham,Books,Children’s Books,Penguin,12.04,22.12,50,50
+PROD00065,Leather Jacket,Clothing,Jackets & Outerwear,Levi's,65.4,130.51,300,60
+PROD00066,Introduction to Psychology,Books,Educational & Textbooks,HarperCollins,43.77,68.7,80,30
+PROD00067,Windbreaker,Clothing,Jackets & Outerwear,Adidas,83.4,198.46,200,30
+PROD00068,Summer Maxi Dress,Clothing,Dresses & Skirts,Zara,87.96,137.06,200,40
+PROD00069,AirPods Pro 2,Electronics,Audio & Headphones,Sony,875.64,1449.49,500,150
+PROD00070,Coffee Maker,Home & Garden,Kitchen & Dining,Stanley,1484.88,2330.35,300,150
+PROD00071,Canon EOS R6,Electronics,Cameras & Accessories,HP,1817.6,2848.83,500,150
+PROD00072,Formal Blue Shirt,Clothing,Shirts & Tops,Adidas,92.58,204.89,200,40
+PROD00073,Tent,Sports,Outdoor Sports,Puma,146.03,245.81,400,50
+PROD00074,Oura Ring Gen3,Electronics,Wearables & Smart Devices,Samsung,734.84,1125.02,500,100
+PROD00075,AirPods Pro 2,Electronics,Audio & Headphones,Fitbit,1112.34,1697.6,100,50
+PROD00076,Wall Art Painting,Home & Garden,Home Decor,Wayfair,288.52,469.82,100,150
+PROD00077,Bookshelf,Home & Garden,Furniture,Ashley Furniture,230.72,451.9,300,100
+PROD00078,Vase,Home & Garden,Home Decor,Home Depot,75.24,141.87,100,150
+PROD00079,Winter Parka,Clothing,Jackets & Outerwear,Nike,89.98,193.32,60,30
+PROD00080,Hockey Stick,Sports,Team Sports,Spalding,123.25,235.52,200,150
+PROD00081,Resistance Bands,Sports,Fitness & Gym Equipment,Nike,581.23,939.97,400,50
+PROD00082,Resistance Bands,Sports,Fitness & Gym Equipment,Wilson,511.91,876.66,400,100
+PROD00083,Garmin Fenix 7,Electronics,Wearables & Smart Devices,Fitbit,1526.31,2950.34,200,100
+PROD00084,Timberland Boots,Clothing,Footwear,Zara,115.75,179.92,300,30
+PROD00085,Tent,Sports,Outdoor Sports,Wilson,357.69,519.07,300,100
+PROD00086,Resistance Bands,Sports,Fitness & Gym Equipment,Spalding,243.79,384.26,300,50
+PROD00087,Camping Stove,Sports,Outdoor Sports,Puma,497.66,965.3,400,50
+PROD00088,Denim Shirt,Clothing,Shirts & Tops,Zara,52.95,117.59,300,60
+PROD00089,Spider-Man: Blue,Books,Comics & Graphic Novels,Penguin,6.06,10.81,70,25
+PROD00090,Educated,Books,Non-Fiction,Scholastic,41.14,68.47,200,20
+PROD00091,Converse Chuck Taylor,Clothing,Footwear,Nike,127.74,317.02,300,30
+PROD00092,AirPods Pro 2,Electronics,Audio & Headphones,Apple,1636.93,2964.27,400,100
+PROD00093,Fitbit Charge 6,Electronics,Wearables & Smart Devices,Bose,872.4,1533.61,300,150
+PROD00094,Sofa Set,Home & Garden,Furniture,Ashley Furniture,710.53,951.1,400,100
+PROD00095,Sweatband,Sports,Sportswear & Accessories,Puma,679.21,1339.18,400,150
+PROD00096,Dell XPS 15,Electronics,Laptops & Computers,Fitbit,1844.19,3573.26,300,150
+PROD00097,Chino Pants,Clothing,Pants & Jeans,Puma,197.3,341.1,100,50
+PROD00098,Baseball Glove,Sports,Team Sports,Nike,396.73,749.16,300,50
+PROD00099,Dell XPS 15,Electronics,Laptops & Computers,Google,383.21,740.21,100,150
+PROD00100,Becoming,Books,Non-Fiction,Random House,23.37,40.71,200,25
+PROD00101,IKEA Dining Table,Home & Garden,Furniture,Stanley,735.84,1029.94,100,100
+PROD00102,Patio Furniture Set,Home & Garden,Outdoor & Patio,Stanley,642.71,968.63,100,50
+PROD00103,The Gruffalo,Books,Children’s Books,Penguin,21.24,42.47,90,40
+PROD00104,Baseball Glove,Sports,Team Sports,Nike,575.91,1075.62,400,100
+PROD00105,Wilson Basketball,Sports,Team Sports,Decathlon,468.98,754.69,300,100
+PROD00106,Sweatband,Sports,Sportswear & Accessories,Wilson,349.28,538.11,400,100
+PROD00107,Blazer Jacket,Clothing,Jackets & Outerwear,Zara,82.82,146.38,50,30
+PROD00108,Yoga Pants,Sports,Sportswear & Accessories,Decathlon,156.23,289.9,100,50
+PROD00109,The Gruffalo,Books,Children’s Books,Scholastic,45.09,79.72,80,40
+PROD00110,Wilson Basketball,Sports,Team Sports,Nike,136.05,239.69,100,100
+PROD00111,Casual Polo Shirt,Clothing,Shirts & Tops,H&M,170.56,279.95,200,50
+PROD00112,Microwave Oven,Home & Garden,Kitchen & Dining,Wayfair,1170.64,1535.95,100,100
+PROD00113,Canon EOS R6,Electronics,Cameras & Accessories,Fitbit,868.9,1633.4,200,50
+PROD00114,Kayak,Sports,Water Sports,Puma,634.67,1168.52,400,50
+PROD00115,Hockey Stick,Sports,Team Sports,Puma,306.07,572.76,400,150
+PROD00116,Stanley Screwdriver Set,Home & Garden,Tools & DIY,IKEA,302.4,560.41,200,150
+PROD00117,Beats Studio Pro,Electronics,Audio & Headphones,Sony,385.26,704.4,100,150
+PROD00118,Tent,Sports,Outdoor Sports,Adidas,589.77,962.37,100,50
+PROD00119,Classic White Shirt,Clothing,Shirts & Tops,H&M,37.51,81.23,100,60
+PROD00120,Swing Chair,Home & Garden,Outdoor & Patio,Ashley Furniture,332.35,609.53,100,50
+PROD00121,Vans Old Skool,Clothing,Footwear,Zara,189.02,382.34,50,50
+PROD00122,Bookshelf,Home & Garden,Furniture,Wayfair,608.78,1090.01,400,50
+PROD00123,HP Spectre x360,Electronics,Laptops & Computers,Fitbit,816.01,1381.61,100,100
+PROD00124,Resistance Bands,Sports,Fitness & Gym Equipment,Decathlon,627.4,898.04,100,50
+PROD00125,Yoga Pants,Sports,Sportswear & Accessories,Wilson,405.84,641.75,100,50
+PROD00126,Educated,Books,Non-Fiction,Random House,20.67,37.81,200,20
+PROD00127,GoPro Hero 12,Electronics,Cameras & Accessories,Fitbit,612.1,1154.96,100,50
+PROD00128,Adidas Ultraboost,Clothing,Footwear,Levi's,23.47,47.26,300,40
+PROD00129,Toolbox Kit,Home & Garden,Tools & DIY,IKEA,817.9,1590.2,300,150
+PROD00130,To Kill a Mockingbird,Books,Fiction,HarperCollins,34.58,56.88,50,20
+PROD00131,Table Lamp,Home & Garden,Home Decor,Bosch,1299.59,1831.39,300,100
+PROD00132,Dell XPS 15,Electronics,Laptops & Computers,Google,1601.7,2835.76,300,150
+PROD00133,Sofa Set,Home & Garden,Furniture,Bosch,190.28,367.75,300,150
+PROD00134,Classic White Shirt,Clothing,Shirts & Tops,Levi's,65.52,127.13,60,30
+PROD00135,Bose QuietComfort Ultra,Electronics,Audio & Headphones,HP,337.17,517.71,100,100
+PROD00136,Stanley Screwdriver Set,Home & Garden,Tools & DIY,Home Depot,564.73,1028.49,100,150
+PROD00137,Cargo Pants,Clothing,Pants & Jeans,Levi's,43.18,74.48,200,20
+PROD00138,GoPro Hero 12,Electronics,Cameras & Accessories,Canon,330.33,497.11,300,150
+PROD00139,Sapiens,Books,Non-Fiction,Random House,34.8,54.27,200,20
+PROD00140,Toolbox Kit,Home & Garden,Tools & DIY,Wayfair,617.1,1099.01,300,50
+PROD00141,Treadmill,Sports,Fitness & Gym Equipment,Nike,484.66,878.59,400,50
+PROD00142,Nikon Z8,Electronics,Cameras & Accessories,Canon,1945.03,3512.89,300,150
+PROD00143,Sleeping Bag,Sports,Outdoor Sports,Decathlon,389.78,624.44,100,100
+PROD00144,Slim Fit Jeans,Clothing,Pants & Jeans,H&M,123.89,292.96,300,40
+PROD00145,iPad Pro 12.9,Electronics,Smartphones & Tablets,Google,1143.59,1946.65,200,150
+PROD00146,Life Jacket,Sports,Water Sports,Adidas,131.51,218.61,400,150
+PROD00147,Diary of a Wimpy Kid,Books,Children’s Books,Penguin,29.45,46.99,60,25
+PROD00148,iPhone 15 Pro,Electronics,Smartphones & Tablets,Canon,611.04,1005.83,500,100
+PROD00149,Snorkel Set,Sports,Water Sports,Decathlon,291.97,490.87,100,150
+PROD00150,Toolbox Kit,Home & Garden,Tools & DIY,IKEA,1226.53,2035.24,100,50
+PROD00151,The Gruffalo,Books,Children’s Books,Scholastic,9.49,18.02,70,25
+PROD00152,Summer Maxi Dress,Clothing,Dresses & Skirts,Zara,104.05,174.54,100,50
+PROD00153,Timberland Boots,Clothing,Footwear,Puma,124.05,275.83,200,40
+PROD00154,Formal Blue Shirt,Clothing,Shirts & Tops,Puma,143.49,348.84,100,60
+PROD00155,Nike Air Force 1,Clothing,Footwear,H&M,101.33,225.02,200,50
+PROD00156,Charlotte's Web,Books,Children’s Books,HarperCollins,38.21,62.47,50,40
+PROD00157,Cookware Set,Home & Garden,Kitchen & Dining,Stanley,1362.72,1939.66,400,150
+PROD00158,Matilda,Books,Children’s Books,Penguin,42.74,78.28,60,20
+PROD00159,The Great Gatsby,Books,Fiction,Random House,49.46,88.6,80,30
+PROD00160,Cargo Pants,Clothing,Pants & Jeans,Puma,38.21,74.88,300,30
+PROD00161,Biology 101,Books,Educational & Textbooks,Scholastic,12.7,19.4,200,25
+PROD00162,Swing Chair,Home & Garden,Outdoor & Patio,IKEA,1215.5,1866.71,300,150
+PROD00163,Dell XPS 15,Electronics,Laptops & Computers,Apple,1749.79,2900.24,300,50
+PROD00164,Hiking Backpack,Sports,Outdoor Sports,Adidas,160.52,247.84,300,150
+PROD00165,Calculus Made Easy,Books,Educational & Textbooks,Penguin,48.13,94.49,90,50
+PROD00166,Leather Jacket,Clothing,Jackets & Outerwear,Adidas,70.66,170.07,200,40
+PROD00167,Office Chair,Home & Garden,Furniture,Stanley,1156.51,1935.64,300,100
+PROD00168,Sony Alpha A7 IV,Electronics,Cameras & Accessories,Dell,924.8,1752.38,300,50
+PROD00169,Surfboard,Sports,Water Sports,Spalding,711.07,1034.57,100,100
+PROD00170,Hammock,Home & Garden,Outdoor & Patio,Home Depot,1194.31,1584.26,300,100
+PROD00171,Timberland Boots,Clothing,Footwear,Uniqlo,166.12,297.28,50,60
+PROD00172,Summer Maxi Dress,Clothing,Dresses & Skirts,Adidas,36.68,83.71,50,30
+PROD00173,Fitbit Charge 6,Electronics,Wearables & Smart Devices,Samsung,1392.65,2567.69,300,50
+PROD00174,Bosch Drill Machine,Home & Garden,Tools & DIY,Stanley,224.95,420.9,100,100
+PROD00175,Denim Shirt,Clothing,Shirts & Tops,Nike,117.18,212.61,60,40
+PROD00176,Dining Plate Set,Home & Garden,Kitchen & Dining,Wayfair,1144.42,2253.1,200,50
+PROD00177,Classic White Shirt,Clothing,Shirts & Tops,Puma,144.48,339.31,100,60
+PROD00178,Office Chair,Home & Garden,Furniture,Wayfair,443.87,876.14,100,50
+PROD00179,Sports T-Shirt,Sports,Sportswear & Accessories,Wilson,324.28,560.91,300,100
+PROD00180,Chino Pants,Clothing,Pants & Jeans,Adidas,152.63,305.78,200,50
+PROD00181,Harry Potter,Books,Fiction,Simon & Schuster,11.73,19.1,100,30
+PROD00182,Bosch Drill Machine,Home & Garden,Tools & DIY,IKEA,276.89,458.39,400,50
+PROD00183,Measuring Tape,Home & Garden,Tools & DIY,Stanley,1163.67,1895.55,400,50
+PROD00184,Yoga Pants,Sports,Sportswear & Accessories,Decathlon,56.45,103.06,100,150
+PROD00185,Dell XPS 15,Electronics,Laptops & Computers,Fitbit,761.55,1337.39,400,50
+PROD00186,Stanley Screwdriver Set,Home & Garden,Tools & DIY,Stanley,1447.26,2766.81,200,50
+PROD00187,Evening Gown,Clothing,Dresses & Skirts,Puma,156.77,272.8,60,60
+PROD00188,Swimming Goggles,Sports,Water Sports,Adidas,107.45,213.74,100,150
+PROD00189,Denim Jacket,Clothing,Jackets & Outerwear,H&M,45.6,86.95,100,30
+PROD00190,Curtain Set,Home & Garden,Home Decor,Wayfair,1423.86,2300.3,400,50
+PROD00191,AirPods Pro 2,Electronics,Audio & Headphones,Bose,880.04,1436.08,200,50
+PROD00192,Cargo Pants,Clothing,Pants & Jeans,Puma,110.55,266.62,100,20
+PROD00193,Matilda,Books,Children’s Books,HarperCollins,8.14,13.49,60,50
+PROD00194,Sofa Set,Home & Garden,Furniture,IKEA,147.39,283.05,400,50
+PROD00195,Vase,Home & Garden,Home Decor,Stanley,288.39,422.48,100,150
+PROD00196,Sweatband,Sports,Sportswear & Accessories,Puma,616.05,1030.59,200,50
+PROD00197,Running Shorts,Sports,Sportswear & Accessories,Decathlon,201.21,329.79,400,50
+PROD00198,Hockey Stick,Sports,Team Sports,Wilson,629.46,1072.12,100,100
+PROD00199,Evening Gown,Clothing,Dresses & Skirts,Levi's,20.79,34.63,60,20
+PROD00200,Yoga Pants,Sports,Sportswear & Accessories,Puma,19.4,34.7,300,150
+PROD00201,Sweatband,Sports,Sportswear & Accessories,Puma,76.71,137.14,200,50
+PROD00202,Swing Chair,Home & Garden,Outdoor & Patio,Wayfair,68.84,109.99,200,150
+PROD00203,To Kill a Mockingbird,Books,Fiction,Simon & Schuster,30.3,51.96,200,30
+PROD00204,Treadmill,Sports,Fitness & Gym Equipment,Puma,188.29,273.14,300,100
+PROD00205,Swing Chair,Home & Garden,Outdoor & Patio,Home Depot,41.17,80.72,300,50
+PROD00206,Samsung Galaxy Buds 3,Electronics,Audio & Headphones,Bose,475.54,850.63,200,100
+PROD00207,Charlotte's Web,Books,Children’s Books,Random House,38.89,70.4,70,40
+PROD00208,Samsung Galaxy Buds 3,Electronics,Audio & Headphones,Fitbit,1913.25,2907.02,100,150
+PROD00209,Formal Blue Shirt,Clothing,Shirts & Tops,Nike,175.84,401.53,50,60
+PROD00210,Toolbox Kit,Home & Garden,Tools & DIY,Wayfair,642.76,1031.02,200,100
+PROD00211,Camping Stove,Sports,Outdoor Sports,Spalding,178.24,283.94,300,50
+PROD00212,Bookshelf,Home & Garden,Furniture,Home Depot,789.98,1429.2,300,150
+PROD00213,Fitbit Charge 6,Electronics,Wearables & Smart Devices,Dell,1657.06,2791.95,400,150
+PROD00214,Timberland Boots,Clothing,Footwear,Zara,171.05,333.71,200,60
+PROD00215,Tent,Sports,Outdoor Sports,Puma,154.88,305.9,400,100
+PROD00216,IKEA Dining Table,Home & Garden,Furniture,Stanley,1275.13,1913.71,100,50
+PROD00217,Vans Old Skool,Clothing,Footwear,Uniqlo,73.46,145.29,300,60
+PROD00218,Fujifilm X-T5,Electronics,Cameras & Accessories,Canon,1651.63,2948.68,200,100
+PROD00219,Camping Stove,Sports,Outdoor Sports,Puma,131.09,227.62,400,100
+PROD00220,Fujifilm X-T5,Electronics,Cameras & Accessories,Samsung,1425.61,2250.41,300,50
+PROD00221,Formal Blue Shirt,Clothing,Shirts & Tops,Nike,166.3,346.94,200,60
+PROD00222,Wilson Basketball,Sports,Team Sports,Wilson,464.3,662.38,200,50
+PROD00223,Timberland Boots,Clothing,Footwear,Uniqlo,116.29,191.75,300,50
+PROD00224,The Gruffalo,Books,Children’s Books,Scholastic,5.12,9.35,70,50
+PROD00225,Kettlebell,Sports,Fitness & Gym Equipment,Nike,348.76,621.56,300,100
+PROD00226,Fitbit Charge 6,Electronics,Wearables & Smart Devices,Fitbit,475.2,893.88,300,100
+PROD00227,To Kill a Mockingbird,Books,Fiction,Random House,33.68,59.73,200,20
+PROD00228,Winter Parka,Clothing,Jackets & Outerwear,Adidas,80.92,181.41,100,40
+PROD00229,Samsung Galaxy Watch 6,Electronics,Wearables & Smart Devices,Sony,1572.65,2683.03,200,50
+PROD00230,Patio Furniture Set,Home & Garden,Outdoor & Patio,Home Depot,262.6,345.4,400,50
+PROD00231,Batman: Year One,Books,Comics & Graphic Novels,Penguin,31.72,59.58,50,50
+PROD00232,Training Jacket,Sports,Sportswear & Accessories,Adidas,334.35,483.88,200,150
+PROD00233,GoPro Hero 12,Electronics,Cameras & Accessories,Fitbit,1135.1,1892.06,500,150
+PROD00234,Charlotte's Web,Books,Children’s Books,Random House,10.75,17.75,60,20
+PROD00235,Levi's 501 Jeans,Clothing,Pants & Jeans,Levi's,113.47,215.11,300,30
+PROD00236,Training Jacket,Sports,Sportswear & Accessories,Puma,735.43,1414.8,100,50
+PROD00237,Sleeping Bag,Sports,Outdoor Sports,Decathlon,686.1,1197.39,100,150
+PROD00238,Introduction to Psychology,Books,Educational & Textbooks,Simon & Schuster,16.84,31.56,200,30
+PROD00239,The Great Gatsby,Books,Fiction,HarperCollins,49.43,97.79,80,40
+PROD00240,Snorkel Set,Sports,Water Sports,Nike,659.64,1117.89,300,50
+PROD00241,Cocktail Dress,Clothing,Dresses & Skirts,Uniqlo,152.99,349.13,200,30
+PROD00242,Resistance Bands,Sports,Fitness & Gym Equipment,Puma,662.94,1279.13,200,50
+PROD00243,Cricket Bat,Sports,Team Sports,Puma,725.04,1234.77,400,100
+PROD00244,Treadmill,Sports,Fitness & Gym Equipment,Wilson,260.87,496.42,300,150
+PROD00245,Casual Polo Shirt,Clothing,Shirts & Tops,Uniqlo,153.25,357.95,300,60
+PROD00246,BBQ Grill,Home & Garden,Outdoor & Patio,Wayfair,115.13,172.77,200,50
+PROD00247,Wooden Bed Frame,Home & Garden,Furniture,Home Depot,314.06,478.23,400,50
+PROD00248,HP Spectre x360,Electronics,Laptops & Computers,Canon,652.3,1112.53,300,100
+PROD00249,Maus,Books,Comics & Graphic Novels,HarperCollins,45.57,74.05,70,30
+PROD00250,Sony WH-1000XM5,Electronics,Audio & Headphones,Sony,836.67,1631.3,500,50
+PROD00251,Swing Chair,Home & Garden,Outdoor & Patio,Home Depot,483.76,898.67,300,100
+PROD00252,Samsung Galaxy S25,Electronics,Smartphones & Tablets,HP,992.39,1699.11,300,150
+PROD00253,Adidas Ultraboost,Clothing,Footwear,H&M,106.89,215.53,50,50
+PROD00254,Atomic Habits,Books,Non-Fiction,Scholastic,9.27,16.08,60,30
+PROD00255,Stanley Screwdriver Set,Home & Garden,Tools & DIY,Wayfair,782.2,1290.7,100,150
+PROD00256,Evening Gown,Clothing,Dresses & Skirts,Nike,68.51,155.56,50,60
+PROD00257,Atomic Habits,Books,Non-Fiction,HarperCollins,30.94,49.8,70,40
+PROD00258,Area Rug,Home & Garden,Home Decor,IKEA,1447.89,2800.17,100,100
+PROD00259,Summer Maxi Dress,Clothing,Dresses & Skirts,Adidas,147.31,237.57,300,30
+PROD00260,Coffee Maker,Home & Garden,Kitchen & Dining,Bosch,1309.55,2480.41,100,150
+PROD00261,Vase,Home & Garden,Home Decor,Wayfair,118.58,199.54,200,100
+PROD00262,Pleated Skirt,Clothing,Dresses & Skirts,Puma,196.37,404.21,50,30
+PROD00263,Tent,Sports,Outdoor Sports,Decathlon,795.51,1217.9,100,100
+PROD00264,Educated,Books,Non-Fiction,Scholastic,43.01,67.94,80,30
+PROD00265,Cookware Set,Home & Garden,Kitchen & Dining,Ashley Furniture,325.5,450.6,100,50
+PROD00266,Lenovo ThinkPad X1,Electronics,Laptops & Computers,HP,785.89,1414.45,300,150
+PROD00267,Timberland Boots,Clothing,Footwear,Uniqlo,92.61,225.3,300,40
+PROD00268,Wooden Bed Frame,Home & Garden,Furniture,Bosch,458.19,629.87,200,150
+PROD00269,Canon EOS R6,Electronics,Cameras & Accessories,Canon,1311.41,2154.82,300,50
+PROD00270,Biology 101,Books,Educational & Textbooks,Random House,40.38,68.28,100,50
+PROD00271,Patio Furniture Set,Home & Garden,Outdoor & Patio,Stanley,450.52,640.25,100,50
+PROD00272,Sweatband,Sports,Sportswear & Accessories,Decathlon,554.86,778.97,100,150
+PROD00273,Calculus Made Easy,Books,Educational & Textbooks,Simon & Schuster,35.58,69.89,200,40
+PROD00274,Fitbit Charge 6,Electronics,Wearables & Smart Devices,Canon,1672.1,3192.8,300,50
+PROD00275,Casual Polo Shirt,Clothing,Shirts & Tops,Levi's,191.31,395.15,100,40
+PROD00276,Fujifilm X-T5,Electronics,Cameras & Accessories,Bose,1536.49,2495.96,300,150
+PROD00277,Becoming,Books,Non-Fiction,Simon & Schuster,32.9,49.36,200,30
+PROD00278,Beats Studio Pro,Electronics,Audio & Headphones,Dell,931.57,1502.88,200,150
+PROD00279,Sapiens,Books,Non-Fiction,Simon & Schuster,24.48,38.08,90,30
+PROD00280,Office Chair,Home & Garden,Furniture,IKEA,950.17,1248.34,100,100
+PROD00281,Running Shorts,Sports,Sportswear & Accessories,Wilson,261.08,457.87,300,50
+PROD00282,Sony WH-1000XM5,Electronics,Audio & Headphones,Samsung,1767.65,3156.12,400,50
+PROD00283,Lenovo ThinkPad X1,Electronics,Laptops & Computers,Sony,1659.91,3171.69,100,150
+PROD00284,Baseball Glove,Sports,Team Sports,Decathlon,383.02,702.18,200,100
+PROD00285,Becoming,Books,Non-Fiction,HarperCollins,10.02,19.94,80,25
+PROD00286,Sports T-Shirt,Sports,Sportswear & Accessories,Adidas,259.51,403.36,300,150
+PROD00287,Camping Stove,Sports,Outdoor Sports,Decathlon,29.24,57.54,100,50
+PROD00288,Garmin Fenix 7,Electronics,Wearables & Smart Devices,Samsung,341.3,609.17,500,100
+PROD00289,The Sandman,Books,Comics & Graphic Novels,Scholastic,18.66,35.31,90,20
+PROD00290,Wall Art Painting,Home & Garden,Home Decor,IKEA,1081.51,1521.52,300,150
+PROD00291,Fujifilm X-T5,Electronics,Cameras & Accessories,Fitbit,1637.4,3113.88,200,100
+PROD00292,Samsung Galaxy Buds 3,Electronics,Audio & Headphones,Bose,1841.53,2908.51,100,100
+PROD00293,Matilda,Books,Children’s Books,Simon & Schuster,47.36,79.26,80,30
+PROD00294,Cordless Saw,Home & Garden,Tools & DIY,Stanley,177.98,333.03,400,150
+PROD00295,Vase,Home & Garden,Home Decor,Bosch,652.76,978.64,100,150
+PROD00296,Garden Umbrella,Home & Garden,Outdoor & Patio,Wayfair,978.63,1797.83,400,150
+PROD00297,Jogger Pants,Clothing,Pants & Jeans,Levi's,151.32,274.32,50,30
+PROD00298,Curtain Set,Home & Garden,Home Decor,Home Depot,338.38,443.58,100,100
+PROD00299,Evening Gown,Clothing,Dresses & Skirts,Adidas,196.08,342.2,60,60
+PROD00300,Formal Blue Shirt,Clothing,Shirts & Tops,H&M,145.82,359.87,300,60
+PROD00301,Training Jacket,Sports,Sportswear & Accessories,Adidas,512.59,1015.73,100,50
+PROD00302,Baseball Glove,Sports,Team Sports,Decathlon,76.62,145.14,400,150
+PROD00303,Apple Watch Series 9,Electronics,Wearables & Smart Devices,Samsung,527.23,903.62,100,50
+PROD00304,MacBook Pro 16,Electronics,Laptops & Computers,Fitbit,502.96,907.6,300,100
+PROD00305,The Great Gatsby,Books,Fiction,Penguin,46.96,76.69,50,25
+PROD00306,The Lord of the Rings,Books,Fiction,Simon & Schuster,7.09,13.32,90,30
+PROD00307,Matilda,Books,Children’s Books,Penguin,38.34,75.61,90,20
+PROD00308,The Sandman,Books,Comics & Graphic Novels,Penguin,41.1,79.33,200,50
+PROD00309,Biology 101,Books,Educational & Textbooks,Simon & Schuster,49.39,74.54,50,30
+PROD00310,HP Spectre x360,Electronics,Laptops & Computers,Sony,715.38,1244.4,200,50
+PROD00311,Swimming Goggles,Sports,Water Sports,Spalding,674.1,1231.75,200,100
+PROD00312,Green Eggs and Ham,Books,Children’s Books,Random House,10.87,17.28,60,20
+PROD00313,Maus,Books,Comics & Graphic Novels,Random House,41.65,70.23,200,30
+PROD00314,Cargo Pants,Clothing,Pants & Jeans,H&M,143.62,348.36,300,20
+PROD00315,Atomic Habits,Books,Non-Fiction,Simon & Schuster,25.71,39.47,100,50
+PROD00316,Stanley Screwdriver Set,Home & Garden,Tools & DIY,Ashley Furniture,234.76,366.22,400,50
+PROD00317,Levi's 501 Jeans,Clothing,Pants & Jeans,Zara,102.06,164.4,100,50
+PROD00318,To Kill a Mockingbird,Books,Fiction,Scholastic,7.24,12.11,80,50
+PROD00319,Becoming,Books,Non-Fiction,Simon & Schuster,42.62,84.61,100,50
+PROD00320,Becoming,Books,Non-Fiction,Random House,30.26,59.23,90,30
+PROD00321,Vase,Home & Garden,Home Decor,Stanley,1112.17,1810.04,200,50
+PROD00322,Biology 101,Books,Educational & Textbooks,Scholastic,39.58,63.15,80,40
+PROD00323,Coffee Maker,Home & Garden,Kitchen & Dining,Home Depot,268.85,515.44,100,100
+PROD00324,Measuring Tape,Home & Garden,Tools & DIY,Ashley Furniture,466.64,832.25,300,50
+PROD00325,Vans Old Skool,Clothing,Footwear,H&M,20.9,37.86,200,60
+PROD00326,GoPro Hero 12,Electronics,Cameras & Accessories,Sony,1805.09,3234.61,300,100
+PROD00327,Wall Art Painting,Home & Garden,Home Decor,Bosch,114.75,175.93,100,100
+PROD00328,Dining Plate Set,Home & Garden,Kitchen & Dining,Bosch,1491.67,2513.72,400,50
+PROD00329,Samsung Galaxy Buds 3,Electronics,Audio & Headphones,HP,416.64,749.92,100,150
+PROD00330,Table Lamp,Home & Garden,Home Decor,Stanley,1443.91,2080.27,300,150
+PROD00331,Calculus Made Easy,Books,Educational & Textbooks,Simon & Schuster,48.95,87.41,100,30
+PROD00332,Table Lamp,Home & Garden,Home Decor,Ashley Furniture,435.49,789.79,200,50
+PROD00333,Levi's 501 Jeans,Clothing,Pants & Jeans,Nike,191.02,388.47,60,50
+PROD00334,Dell XPS 15,Electronics,Laptops & Computers,Fitbit,1909.7,3468.17,100,150
+PROD00335,Diary of a Wimpy Kid,Books,Children’s Books,HarperCollins,7.68,12.97,60,30
+PROD00336,Kettlebell,Sports,Fitness & Gym Equipment,Spalding,534.66,1054.31,300,50
+PROD00337,Bose QuietComfort Ultra,Electronics,Audio & Headphones,Sony,1520.18,2353.75,300,50
+PROD00338,Pleated Skirt,Clothing,Dresses & Skirts,Uniqlo,164.06,368.43,100,60
+PROD00339,Samsung Galaxy Buds 3,Electronics,Audio & Headphones,Sony,1105.71,2126.25,100,150
+PROD00340,Surfboard,Sports,Water Sports,Wilson,346.59,487.19,200,100
+PROD00341,Apple Watch Series 9,Electronics,Wearables & Smart Devices,Dell,605.54,926.4,100,100
+PROD00342,Diary of a Wimpy Kid,Books,Children’s Books,Scholastic,36.4,65.89,90,20
+PROD00343,Curtain Set,Home & Garden,Home Decor,Ashley Furniture,314.06,511.22,400,150
+PROD00344,Canon EOS R6,Electronics,Cameras & Accessories,HP,676.08,1253.21,300,50
+PROD00345,Sleeping Bag,Sports,Outdoor Sports,Wilson,609.51,1198.53,400,50
+PROD00346,Samsung Galaxy S25,Electronics,Smartphones & Tablets,Fitbit,1204.8,1861.81,200,100
+PROD00347,Spider-Man: Blue,Books,Comics & Graphic Novels,Penguin,15.05,26.94,90,40
+PROD00348,Running Shorts,Sports,Sportswear & Accessories,Adidas,480.66,694.25,200,100
+PROD00349,Yoga Pants,Sports,Sportswear & Accessories,Nike,475.17,673.9,400,150
+PROD00350,Casual Polo Shirt,Clothing,Shirts & Tops,Nike,120.46,222.4,60,20
+PROD00351,Charlotte's Web,Books,Children’s Books,Random House,13.73,25.22,80,30
+PROD00352,Lenovo ThinkPad X1,Electronics,Laptops & Computers,Apple,612.76,1012.99,300,50
+PROD00353,The Lord of the Rings,Books,Fiction,Scholastic,32.58,56.62,50,40
+PROD00354,Sony Alpha A7 IV,Electronics,Cameras & Accessories,Bose,1256.21,2196.43,500,150
+PROD00355,Engineering Mechanics,Books,Educational & Textbooks,HarperCollins,16.74,33.41,90,25
+PROD00356,The Great Gatsby,Books,Fiction,Scholastic,21.34,39.72,90,50
+PROD00357,Surfboard,Sports,Water Sports,Adidas,274.0,476.51,300,50
+PROD00358,Google Pixel 9 Pro,Electronics,Smartphones & Tablets,Sony,1352.99,2079.09,300,100
+PROD00359,Cricket Bat,Sports,Team Sports,Nike,551.56,1002.72,300,150
+PROD00360,Introduction to Psychology,Books,Educational & Textbooks,Penguin,40.11,79.36,80,25
+PROD00361,Fujifilm X-T5,Electronics,Cameras & Accessories,Samsung,493.18,971.47,100,50
+PROD00362,The Great Gatsby,Books,Fiction,Penguin,7.24,10.91,90,20
+PROD00363,Area Rug,Home & Garden,Home Decor,Wayfair,1361.96,2075.27,200,150
+PROD00364,Summer Maxi Dress,Clothing,Dresses & Skirts,Zara,156.18,319.43,50,40
+PROD00365,Blazer Jacket,Clothing,Jackets & Outerwear,Zara,55.48,112.29,50,40
+PROD00366,The Power of Habit,Books,Non-Fiction,Simon & Schuster,29.3,53.74,70,30
+PROD00367,Hammock,Home & Garden,Outdoor & Patio,Bosch,1130.88,2132.04,100,50
+PROD00368,Stanley Screwdriver Set,Home & Garden,Tools & DIY,Home Depot,303.43,590.53,400,100
+PROD00369,The Lord of the Rings,Books,Fiction,Simon & Schuster,28.98,57.07,70,30
+PROD00370,Blazer Jacket,Clothing,Jackets & Outerwear,Uniqlo,117.84,213.06,300,40
+PROD00371,Vans Old Skool,Clothing,Footwear,Zara,30.42,61.74,60,30
+PROD00372,Levi's 501 Jeans,Clothing,Pants & Jeans,H&M,123.25,196.47,60,50
+PROD00373,Formal Blue Shirt,Clothing,Shirts & Tops,Puma,23.78,39.71,200,60
+PROD00374,Biology 101,Books,Educational & Textbooks,Simon & Schuster,12.36,20.5,60,25
+PROD00375,Maus,Books,Comics & Graphic Novels,HarperCollins,5.31,8.77,200,40
+PROD00376,Sports T-Shirt,Sports,Sportswear & Accessories,Spalding,379.84,735.15,300,50
+PROD00377,To Kill a Mockingbird,Books,Fiction,HarperCollins,34.67,57.27,50,30
+PROD00378,Sony Alpha A7 IV,Electronics,Cameras & Accessories,Samsung,1200.28,2132.53,300,150
+PROD00379,Office Chair,Home & Garden,Furniture,Home Depot,507.01,837.02,200,100
+PROD00380,Cocktail Dress,Clothing,Dresses & Skirts,Uniqlo,111.0,215.11,60,50
+PROD00381,Adidas Ultraboost,Clothing,Footwear,Uniqlo,180.42,322.69,100,40
+PROD00382,Pencil Skirt,Clothing,Dresses & Skirts,Nike,133.56,238.7,300,20
+PROD00383,Swimming Goggles,Sports,Water Sports,Spalding,482.59,693.59,400,100
+PROD00384,Apple Watch Series 9,Electronics,Wearables & Smart Devices,Canon,1927.13,2939.25,500,100
+PROD00385,Sapiens,Books,Non-Fiction,Simon & Schuster,41.42,64.42,90,25
+PROD00386,Sony WH-1000XM5,Electronics,Audio & Headphones,Canon,327.91,561.8,500,150
+PROD00387,Hammock,Home & Garden,Outdoor & Patio,Ashley Furniture,53.9,71.21,300,100
+PROD00388,The Great Gatsby,Books,Fiction,HarperCollins,28.04,44.61,200,30
+PROD00389,Resistance Bands,Sports,Fitness & Gym Equipment,Puma,367.26,618.79,200,150
+PROD00390,Office Chair,Home & Garden,Furniture,Stanley,663.17,1093.61,100,100
+PROD00391,Adidas Ultraboost,Clothing,Footwear,H&M,63.34,123.94,200,50
+PROD00392,Samsung Galaxy Watch 6,Electronics,Wearables & Smart Devices,Google,752.98,1217.49,400,100
+PROD00393,Calculus Made Easy,Books,Educational & Textbooks,Penguin,14.24,22.95,70,50
+PROD00394,Becoming,Books,Non-Fiction,Simon & Schuster,23.86,44.94,60,25
+PROD00395,Patio Furniture Set,Home & Garden,Outdoor & Patio,Stanley,893.93,1673.78,400,150
+PROD00396,Curtain Set,Home & Garden,Home Decor,IKEA,384.94,522.58,200,100
+PROD00397,Cocktail Dress,Clothing,Dresses & Skirts,Levi's,140.87,219.28,50,50
+PROD00398,Surfboard,Sports,Water Sports,Decathlon,81.53,141.69,200,50
+PROD00399,Swimming Goggles,Sports,Water Sports,Spalding,749.86,1468.28,300,100
+PROD00400,Table Lamp,Home & Garden,Home Decor,Stanley,1085.86,1753.28,100,150
+PROD00401,Fitbit Charge 6,Electronics,Wearables & Smart Devices,Fitbit,1607.77,2611.42,500,100
+PROD00402,Sapiens,Books,Non-Fiction,Simon & Schuster,28.54,43.66,200,40
+PROD00403,Calculus Made Easy,Books,Educational & Textbooks,Scholastic,15.06,23.63,70,25
+PROD00404,MacBook Pro 16,Electronics,Laptops & Computers,Bose,860.2,1454.69,400,50
+PROD00405,Sony WH-1000XM5,Electronics,Audio & Headphones,Canon,1930.84,3597.34,200,100
+PROD00406,Canon EOS R6,Electronics,Cameras & Accessories,Bose,1693.75,3195.18,400,50
+PROD00407,Exercise Bike,Sports,Fitness & Gym Equipment,Spalding,516.08,907.21,300,150
+PROD00408,Green Eggs and Ham,Books,Children’s Books,Penguin,27.65,47.45,60,20
+PROD00409,Educated,Books,Non-Fiction,Random House,20.31,32.0,90,30
+PROD00410,Batman: Year One,Books,Comics & Graphic Novels,Penguin,10.92,17.73,200,30
+PROD00411,Treadmill,Sports,Fitness & Gym Equipment,Puma,28.99,56.28,300,50
+PROD00412,Kettlebell,Sports,Fitness & Gym Equipment,Wilson,234.32,373.17,100,150
+PROD00413,Swimming Goggles,Sports,Water Sports,Nike,434.07,809.1,200,100
+PROD00414,Microwave Oven,Home & Garden,Kitchen & Dining,Ashley Furniture,430.16,616.22,400,50
+PROD00415,Surfboard,Sports,Water Sports,Nike,355.23,568.91,300,100
+PROD00416,Cocktail Dress,Clothing,Dresses & Skirts,Levi's,76.23,173.25,200,40
+PROD00417,Asus ROG Zephyrus,Electronics,Laptops & Computers,Samsung,1405.18,2245.84,500,100
+PROD00418,Kettlebell,Sports,Fitness & Gym Equipment,Spalding,622.0,1240.02,300,50
+PROD00419,IKEA Dining Table,Home & Garden,Furniture,Bosch,1270.22,2179.12,100,100
+PROD00420,Converse Chuck Taylor,Clothing,Footwear,Levi's,72.92,145.26,200,50
+PROD00421,Bosch Drill Machine,Home & Garden,Tools & DIY,Home Depot,1249.55,1808.09,400,50
+PROD00422,Samsung Galaxy Buds 3,Electronics,Audio & Headphones,Google,1707.0,3063.74,300,50
+PROD00423,Sports T-Shirt,Sports,Sportswear & Accessories,Adidas,719.25,1021.13,200,100
+PROD00424,The Great Gatsby,Books,Fiction,Penguin,31.58,52.88,70,50
+PROD00425,Stanley Screwdriver Set,Home & Garden,Tools & DIY,Wayfair,409.85,697.63,200,150
+PROD00426,Cookware Set,Home & Garden,Kitchen & Dining,IKEA,1242.24,2271.58,400,150
+PROD00427,The Gruffalo,Books,Children’s Books,HarperCollins,12.42,22.01,50,25
+PROD00428,Yoga Pants,Sports,Sportswear & Accessories,Adidas,719.72,1129.47,200,50
+PROD00429,Cordless Saw,Home & Garden,Tools & DIY,Bosch,1001.91,1496.21,400,150
+PROD00430,Area Rug,Home & Garden,Home Decor,Ashley Furniture,213.88,340.65,400,50
+PROD00431,Diary of a Wimpy Kid,Books,Children’s Books,Simon & Schuster,39.53,78.59,90,50
+PROD00432,Nikon Z8,Electronics,Cameras & Accessories,Dell,1026.66,1947.6,200,50
+PROD00433,Bosch Drill Machine,Home & Garden,Tools & DIY,IKEA,158.48,313.89,400,50
+PROD00434,Maus,Books,Comics & Graphic Novels,Simon & Schuster,40.42,79.51,100,40
+PROD00435,Jogger Pants,Clothing,Pants & Jeans,Adidas,163.3,293.29,50,60
+PROD00436,Life Jacket,Sports,Water Sports,Puma,337.35,628.19,300,100
+PROD00437,Maus,Books,Comics & Graphic Novels,HarperCollins,34.26,58.06,70,20
+PROD00438,Hammock,Home & Garden,Outdoor & Patio,Ashley Furniture,1338.11,2583.17,300,50
+PROD00439,Dell XPS 15,Electronics,Laptops & Computers,Fitbit,1259.28,2198.39,200,100
+PROD00440,Biology 101,Books,Educational & Textbooks,Random House,28.68,50.47,70,25
+PROD00441,Sony WH-1000XM5,Electronics,Audio & Headphones,Fitbit,625.96,1026.03,400,50
+PROD00442,Hiking Backpack,Sports,Outdoor Sports,Puma,586.36,1020.06,300,100
+PROD00443,Tent,Sports,Outdoor Sports,Nike,438.95,623.16,100,150
+PROD00444,Canon EOS R6,Electronics,Cameras & Accessories,Google,1168.84,2019.63,500,100
+PROD00445,Maus,Books,Comics & Graphic Novels,Scholastic,49.34,80.44,50,30
+PROD00446,Training Jacket,Sports,Sportswear & Accessories,Adidas,519.31,891.6,200,50
+PROD00447,Coffee Maker,Home & Garden,Kitchen & Dining,Home Depot,814.42,1224.59,400,150
+PROD00448,The Power of Habit,Books,Non-Fiction,HarperCollins,35.57,55.06,60,30
+PROD00449,Blazer Jacket,Clothing,Jackets & Outerwear,Zara,131.82,276.76,50,40
+PROD00450,AirPods Pro 2,Electronics,Audio & Headphones,HP,1659.79,3125.25,300,150
+PROD00451,Denim Jacket,Clothing,Jackets & Outerwear,Levi's,67.98,127.67,300,30
+PROD00452,Cordless Saw,Home & Garden,Tools & DIY,Stanley,403.53,720.97,200,100
+PROD00453,Nike Air Force 1,Clothing,Footwear,Puma,67.48,105.76,300,30
+PROD00454,OnePlus 12,Electronics,Smartphones & Tablets,Apple,537.61,1018.38,200,150
+PROD00455,Converse Chuck Taylor,Clothing,Footwear,Levi's,130.02,244.17,100,30
+PROD00456,Introduction to Psychology,Books,Educational & Textbooks,Scholastic,48.03,86.9,90,40
+PROD00457,Sony Alpha A7 IV,Electronics,Cameras & Accessories,HP,1364.67,2445.0,100,150
+PROD00458,Leather Jacket,Clothing,Jackets & Outerwear,Zara,125.37,249.08,60,20
+PROD00459,Dumbbell Set,Sports,Fitness & Gym Equipment,Decathlon,386.34,760.34,200,50
+PROD00460,Tent,Sports,Outdoor Sports,Adidas,372.24,644.31,200,100
+PROD00461,Patio Furniture Set,Home & Garden,Outdoor & Patio,IKEA,1354.91,2280.09,400,150
+PROD00462,Oura Ring Gen3,Electronics,Wearables & Smart Devices,Bose,481.93,943.56,200,150
+PROD00463,Samsung Galaxy S25,Electronics,Smartphones & Tablets,Dell,1984.72,3377.45,200,150
+PROD00464,MacBook Pro 16,Electronics,Laptops & Computers,Samsung,1671.97,3044.55,100,50
+PROD00465,Sofa Set,Home & Garden,Furniture,Wayfair,1299.88,2237.4,100,100
+PROD00466,Bose QuietComfort Ultra,Electronics,Audio & Headphones,Google,367.91,606.77,400,150
+PROD00467,Classic White Shirt,Clothing,Shirts & Tops,Levi's,50.68,83.91,60,40
+PROD00468,Dell XPS 15,Electronics,Laptops & Computers,Bose,301.51,457.99,200,50
+PROD00469,Biology 101,Books,Educational & Textbooks,Random House,49.85,75.78,200,25
+PROD00470,Asus ROG Zephyrus,Electronics,Laptops & Computers,Sony,1352.87,2363.4,300,100
+PROD00471,MacBook Pro 16,Electronics,Laptops & Computers,Fitbit,1073.14,2021.03,400,150
+PROD00472,Graphic T-Shirt,Clothing,Shirts & Tops,Levi's,80.21,185.22,60,50
+PROD00473,Bosch Drill Machine,Home & Garden,Tools & DIY,Ashley Furniture,1373.51,2135.73,400,50
+PROD00474,Swimming Goggles,Sports,Water Sports,Decathlon,487.07,817.21,100,100
+PROD00475,Samsung Galaxy S25,Electronics,Smartphones & Tablets,Canon,1974.78,3898.65,200,150
+PROD00476,Hammock,Home & Garden,Outdoor & Patio,Wayfair,338.37,516.78,100,150
+PROD00477,Casual Polo Shirt,Clothing,Shirts & Tops,Adidas,153.92,254.67,60,20
+PROD00478,Life Jacket,Sports,Water Sports,Decathlon,370.89,604.76,100,50
+PROD00479,Snorkel Set,Sports,Water Sports,Wilson,256.09,385.31,400,50
+PROD00480,The Sandman,Books,Comics & Graphic Novels,Scholastic,40.4,62.17,70,30
+PROD00481,Sony WH-1000XM5,Electronics,Audio & Headphones,Fitbit,1189.84,2045.11,500,150
+PROD00482,Resistance Bands,Sports,Fitness & Gym Equipment,Wilson,409.53,578.27,400,150
+PROD00483,Pencil Skirt,Clothing,Dresses & Skirts,Puma,51.05,121.88,50,30
+PROD00484,Mountain Bike,Sports,Outdoor Sports,Puma,527.49,1031.74,400,100
+PROD00485,Treadmill,Sports,Fitness & Gym Equipment,Decathlon,303.03,471.55,300,50
+PROD00486,Snorkel Set,Sports,Water Sports,Spalding,256.58,444.37,300,100
+PROD00487,Toolbox Kit,Home & Garden,Tools & DIY,Wayfair,851.56,1185.81,400,150
+PROD00488,Spider-Man: Blue,Books,Comics & Graphic Novels,HarperCollins,15.97,30.98,70,20
+PROD00489,Blender,Home & Garden,Kitchen & Dining,Stanley,452.13,697.6,400,100
+PROD00490,To Kill a Mockingbird,Books,Fiction,HarperCollins,9.78,18.04,80,20
+PROD00491,Snorkel Set,Sports,Water Sports,Spalding,22.93,43.92,400,50
+PROD00492,Kayak,Sports,Water Sports,Wilson,485.68,800.37,100,150
+PROD00493,Curtain Set,Home & Garden,Home Decor,Ashley Furniture,240.5,441.45,400,100
+PROD00494,Bose QuietComfort Ultra,Electronics,Audio & Headphones,Sony,1888.06,3039.29,500,150
+PROD00495,The Power of Habit,Books,Non-Fiction,Penguin,28.39,47.11,200,30
+PROD00496,IKEA Dining Table,Home & Garden,Furniture,Stanley,751.8,1211.59,100,100
+PROD00497,Sports T-Shirt,Sports,Sportswear & Accessories,Nike,575.92,1124.14,300,100
+PROD00498,Mountain Bike,Sports,Outdoor Sports,Adidas,793.76,1471.48,100,50
+PROD00499,Vans Old Skool,Clothing,Footwear,Puma,117.76,200.62,100,50
+PROD00500,OnePlus 12,Electronics,Smartphones & Tablets,HP,542.65,903.76,400,100
+PROD00501,Blazer Jacket,Clothing,Jackets & Outerwear,Levi's,152.17,297.1,300,50
+PROD00502,Beats Studio Pro,Electronics,Audio & Headphones,Fitbit,341.11,573.89,400,100
+PROD00503,Casual Polo Shirt,Clothing,Shirts & Tops,Zara,26.3,52.7,300,40
+PROD00504,Evening Gown,Clothing,Dresses & Skirts,Nike,66.95,136.3,200,30
+PROD00505,HP Spectre x360,Electronics,Laptops & Computers,Fitbit,1525.69,2890.32,100,150
+PROD00506,Sweatband,Sports,Sportswear & Accessories,Puma,530.99,830.67,400,50
+PROD00507,Asus ROG Zephyrus,Electronics,Laptops & Computers,Samsung,1851.53,3606.53,300,150
+PROD00508,Asus ROG Zephyrus,Electronics,Laptops & Computers,Google,854.54,1688.19,500,50
+PROD00509,Cricket Bat,Sports,Team Sports,Adidas,643.25,914.63,300,150
+PROD00510,Samsung Galaxy Buds 3,Electronics,Audio & Headphones,Google,733.79,1235.19,300,50
+PROD00511,Casual Polo Shirt,Clothing,Shirts & Tops,Levi's,58.72,142.76,60,40
+PROD00512,iPad Pro 12.9,Electronics,Smartphones & Tablets,Fitbit,434.16,713.61,200,50
+PROD00513,Toolbox Kit,Home & Garden,Tools & DIY,Wayfair,501.64,904.48,300,50
+PROD00514,Converse Chuck Taylor,Clothing,Footwear,Uniqlo,113.24,270.91,60,60
+PROD00515,Sweatband,Sports,Sportswear & Accessories,Wilson,217.98,344.24,200,50
+PROD00516,Sapiens,Books,Non-Fiction,Penguin,27.06,41.29,100,30
+PROD00517,Yoga Pants,Sports,Sportswear & Accessories,Wilson,756.02,1172.95,300,100
+PROD00518,Hammock,Home & Garden,Outdoor & Patio,Bosch,596.53,1173.27,400,50
+PROD00519,Converse Chuck Taylor,Clothing,Footwear,Nike,34.15,52.1,60,50
+PROD00520,Wall Art Painting,Home & Garden,Home Decor,Ashley Furniture,314.43,550.16,300,150
+PROD00521,Vase,Home & Garden,Home Decor,Wayfair,280.01,484.51,100,50
+PROD00522,Garmin Fenix 7,Electronics,Wearables & Smart Devices,Canon,1182.02,2206.95,400,100
+PROD00523,Snorkel Set,Sports,Water Sports,Nike,763.11,1088.82,100,100
+PROD00524,Google Pixel 9 Pro,Electronics,Smartphones & Tablets,Google,1582.34,2385.47,300,50
+PROD00525,Vase,Home & Garden,Home Decor,Wayfair,370.21,669.11,200,100
+PROD00526,Lenovo ThinkPad X1,Electronics,Laptops & Computers,Sony,1990.42,3897.11,500,50
+PROD00527,Kayak,Sports,Water Sports,Adidas,340.82,505.67,400,150
+PROD00528,Becoming,Books,Non-Fiction,HarperCollins,12.94,25.45,70,25
+PROD00529,Tent,Sports,Outdoor Sports,Nike,352.71,628.83,300,100
+PROD00530,Bose QuietComfort Ultra,Electronics,Audio & Headphones,Samsung,1550.08,2329.45,200,100
+PROD00531,Sleeping Bag,Sports,Outdoor Sports,Wilson,226.98,425.9,300,150
+PROD00532,Educated,Books,Non-Fiction,Scholastic,28.05,50.48,200,20
+PROD00533,Leather Jacket,Clothing,Jackets & Outerwear,H&M,57.46,123.23,200,50
+PROD00534,Nike Air Force 1,Clothing,Footwear,Puma,90.86,210.1,100,20
+PROD00535,AirPods Pro 2,Electronics,Audio & Headphones,Sony,1566.05,2443.88,300,150
+PROD00536,Windbreaker,Clothing,Jackets & Outerwear,Uniqlo,114.29,195.74,100,20
+PROD00537,Dell XPS 15,Electronics,Laptops & Computers,Fitbit,1691.64,2656.9,100,100
+PROD00538,The Power of Habit,Books,Non-Fiction,HarperCollins,14.48,23.6,200,25
+PROD00539,Bosch Drill Machine,Home & Garden,Tools & DIY,IKEA,334.57,591.86,300,100
+PROD00540,To Kill a Mockingbird,Books,Fiction,Random House,5.7,8.59,90,40
+PROD00541,Training Jacket,Sports,Sportswear & Accessories,Puma,773.9,1428.58,200,50
+PROD00542,Life Jacket,Sports,Water Sports,Spalding,150.02,252.3,200,100
+PROD00543,Pleated Skirt,Clothing,Dresses & Skirts,Uniqlo,83.92,169.72,300,60
+PROD00544,Table Lamp,Home & Garden,Home Decor,Wayfair,679.27,1323.22,200,150
+PROD00545,IKEA Dining Table,Home & Garden,Furniture,IKEA,1168.76,1591.93,400,50
+PROD00546,Biology 101,Books,Educational & Textbooks,Simon & Schuster,33.15,60.68,100,20
+PROD00547,Google Pixel 9 Pro,Electronics,Smartphones & Tablets,Bose,1033.04,1603.88,400,100
+PROD00548,Lenovo ThinkPad X1,Electronics,Laptops & Computers,Samsung,1480.48,2286.11,300,100
+PROD00549,Snorkel Set,Sports,Water Sports,Nike,557.77,908.92,200,150
+PROD00550,Training Jacket,Sports,Sportswear & Accessories,Adidas,218.19,414.8,100,150
+PROD00551,Bosch Drill Machine,Home & Garden,Tools & DIY,IKEA,1439.53,1896.74,200,150
+PROD00552,Sleeping Bag,Sports,Outdoor Sports,Wilson,262.22,456.52,400,50
+PROD00553,Bosch Drill Machine,Home & Garden,Tools & DIY,IKEA,489.7,701.83,100,100
+PROD00554,Wilson Basketball,Sports,Team Sports,Nike,476.09,910.18,200,150
+PROD00555,Mountain Bike,Sports,Outdoor Sports,Adidas,27.13,44.33,200,100
+PROD00556,Winter Parka,Clothing,Jackets & Outerwear,Zara,117.64,280.23,100,20
+PROD00557,Cargo Pants,Clothing,Pants & Jeans,Nike,135.5,266.29,50,50
+PROD00558,Fitbit Charge 6,Electronics,Wearables & Smart Devices,HP,577.13,892.73,500,150
+PROD00559,Fitbit Charge 6,Electronics,Wearables & Smart Devices,Apple,1782.19,3004.51,200,100
+PROD00560,Calculus Made Easy,Books,Educational & Textbooks,Simon & Schuster,10.85,20.94,70,50
+PROD00561,Pencil Skirt,Clothing,Dresses & Skirts,Levi's,178.58,306.71,50,60
+PROD00562,Samsung Galaxy S25,Electronics,Smartphones & Tablets,Fitbit,902.97,1766.34,300,100
+PROD00563,iPad Pro 12.9,Electronics,Smartphones & Tablets,Fitbit,774.48,1175.17,100,100
+PROD00564,Spider-Man: Blue,Books,Comics & Graphic Novels,Scholastic,21.18,36.65,70,50
+PROD00565,Spider-Man: Blue,Books,Comics & Graphic Novels,Random House,8.31,16.32,90,25
+PROD00566,Lenovo ThinkPad X1,Electronics,Laptops & Computers,Fitbit,1687.77,2831.05,400,150
+PROD00567,The Great Gatsby,Books,Fiction,Penguin,10.71,17.34,100,50
+PROD00568,Cookware Set,Home & Garden,Kitchen & Dining,IKEA,189.58,292.67,300,50
+PROD00569,OnePlus 12,Electronics,Smartphones & Tablets,HP,1356.72,2551.44,300,50
+PROD00570,Garden Umbrella,Home & Garden,Outdoor & Patio,Home Depot,381.63,533.04,100,150
+PROD00571,Microwave Oven,Home & Garden,Kitchen & Dining,Bosch,968.9,1474.42,100,50
+PROD00572,Summer Maxi Dress,Clothing,Dresses & Skirts,H&M,72.02,143.76,300,30
+PROD00573,Fujifilm X-T5,Electronics,Cameras & Accessories,Dell,1831.64,2912.07,400,150
+PROD00574,Camping Stove,Sports,Outdoor Sports,Adidas,669.54,1238.61,100,50
+PROD00575,Canon EOS R6,Electronics,Cameras & Accessories,Fitbit,1128.66,1984.42,300,150
+PROD00576,Mountain Bike,Sports,Outdoor Sports,Wilson,71.95,101.77,200,100
+PROD00577,Wooden Bed Frame,Home & Garden,Furniture,Wayfair,603.73,1136.44,400,50
+PROD00578,AirPods Pro 2,Electronics,Audio & Headphones,Dell,1175.24,1830.29,100,150
+PROD00579,Resistance Bands,Sports,Fitness & Gym Equipment,Decathlon,61.02,92.34,300,50
+PROD00580,The Sandman,Books,Comics & Graphic Novels,Random House,44.84,74.97,60,40
+PROD00581,Beats Studio Pro,Electronics,Audio & Headphones,HP,678.77,1145.2,500,150
+PROD00582,Sleeping Bag,Sports,Outdoor Sports,Puma,386.74,565.4,300,150
+PROD00583,Bookshelf,Home & Garden,Furniture,Wayfair,1191.4,1749.27,200,150
+PROD00584,Stanley Screwdriver Set,Home & Garden,Tools & DIY,Stanley,178.86,259.33,100,100
+PROD00585,Blazer Jacket,Clothing,Jackets & Outerwear,H&M,66.82,141.06,300,60
+PROD00586,Evening Gown,Clothing,Dresses & Skirts,Uniqlo,77.1,154.84,50,30
+PROD00587,Samsung Galaxy Buds 3,Electronics,Audio & Headphones,Google,1599.68,2466.18,300,50
+PROD00588,Introduction to Psychology,Books,Educational & Textbooks,Scholastic,48.95,95.87,200,30
+PROD00589,Swimming Goggles,Sports,Water Sports,Decathlon,665.54,1269.1,200,50
+PROD00590,Blazer Jacket,Clothing,Jackets & Outerwear,Adidas,139.28,328.79,300,50
+PROD00591,Kayak,Sports,Water Sports,Wilson,701.93,1031.89,400,100
+PROD00592,Graphic T-Shirt,Clothing,Shirts & Tops,Puma,181.84,316.53,300,60
+PROD00593,Becoming,Books,Non-Fiction,Penguin,43.15,73.29,200,20
+PROD00594,OnePlus 12,Electronics,Smartphones & Tablets,Bose,1877.49,3138.51,300,150
+PROD00595,Table Lamp,Home & Garden,Home Decor,Home Depot,1475.2,2897.09,400,50
+PROD00596,Mountain Bike,Sports,Outdoor Sports,Decathlon,449.36,820.35,100,100
+PROD00597,Slim Fit Jeans,Clothing,Pants & Jeans,Puma,152.01,287.13,300,30
+PROD00598,The Alchemist,Books,Fiction,Random House,26.01,46.25,200,50
+PROD00599,Vase,Home & Garden,Home Decor,Ashley Furniture,546.48,758.61,100,50
+PROD00600,Denim Shirt,Clothing,Shirts & Tops,Uniqlo,160.5,393.33,60,30
+PROD00601,Engineering Mechanics,Books,Educational & Textbooks,HarperCollins,37.96,70.08,90,40
+PROD00602,Mountain Bike,Sports,Outdoor Sports,Decathlon,364.04,652.63,200,150
+PROD00603,Wilson Basketball,Sports,Team Sports,Spalding,642.8,1264.51,200,50
+PROD00604,The Alchemist,Books,Fiction,Random House,13.99,22.52,70,30
+PROD00605,BBQ Grill,Home & Garden,Outdoor & Patio,IKEA,1205.76,1694.8,100,100
+PROD00606,iPad Pro 12.9,Electronics,Smartphones & Tablets,Canon,1347.09,2434.15,100,150
+PROD00607,Camping Stove,Sports,Outdoor Sports,Spalding,256.1,429.2,100,100
+PROD00608,Samsung Galaxy Watch 6,Electronics,Wearables & Smart Devices,HP,1748.27,3124.67,300,100
+PROD00609,Chino Pants,Clothing,Pants & Jeans,Uniqlo,58.72,143.45,200,50
+PROD00610,The Alchemist,Books,Fiction,Simon & Schuster,7.55,12.76,200,40
+PROD00611,Denim Shirt,Clothing,Shirts & Tops,Levi's,150.92,314.82,300,60
+PROD00612,The Power of Habit,Books,Non-Fiction,Random House,14.85,26.41,60,50
+PROD00613,Apple Watch Series 9,Electronics,Wearables & Smart Devices,Fitbit,986.68,1754.13,100,150
+PROD00614,Hammock,Home & Garden,Outdoor & Patio,Ashley Furniture,508.31,944.01,400,50
+PROD00615,The Lord of the Rings,Books,Fiction,Random House,49.9,91.61,80,50
+PROD00616,Wooden Bed Frame,Home & Garden,Furniture,Ashley Furniture,1071.16,1806.55,400,150
+PROD00617,The Gruffalo,Books,Children’s Books,Simon & Schuster,45.74,84.61,200,40
+PROD00618,Training Jacket,Sports,Sportswear & Accessories,Spalding,368.45,632.16,300,150
+PROD00619,Microwave Oven,Home & Garden,Kitchen & Dining,Wayfair,1231.3,1887.78,400,100
+PROD00620,Dumbbell Set,Sports,Fitness & Gym Equipment,Puma,787.87,1105.46,100,50
+PROD00621,Biology 101,Books,Educational & Textbooks,Scholastic,21.69,41.27,70,25
+PROD00622,Bosch Drill Machine,Home & Garden,Tools & DIY,IKEA,353.59,585.33,300,150
+PROD00623,The Gruffalo,Books,Children’s Books,Penguin,17.19,26.6,90,40
+PROD00624,Classic White Shirt,Clothing,Shirts & Tops,Nike,72.11,178.3,200,50
+PROD00625,OnePlus 12,Electronics,Smartphones & Tablets,Samsung,1116.99,1783.19,200,50
+PROD00626,Nikon Z8,Electronics,Cameras & Accessories,Sony,1216.7,1925.22,500,50
+PROD00627,Green Eggs and Ham,Books,Children’s Books,Random House,48.43,74.88,90,20
+PROD00628,Life Jacket,Sports,Water Sports,Nike,278.96,477.91,200,150
+PROD00629,Kayak,Sports,Water Sports,Spalding,22.68,34.85,200,50
+PROD00630,Maus,Books,Comics & Graphic Novels,HarperCollins,26.18,49.32,100,30
+PROD00631,Data Science for Dummies,Books,Educational & Textbooks,Scholastic,10.56,16.56,70,20
+PROD00632,The Alchemist,Books,Fiction,Simon & Schuster,38.31,73.58,50,40
+PROD00633,Converse Chuck Taylor,Clothing,Footwear,Adidas,122.47,192.38,300,30
+PROD00634,Toolbox Kit,Home & Garden,Tools & DIY,Wayfair,759.61,1143.17,400,150
+PROD00635,Coffee Maker,Home & Garden,Kitchen & Dining,Stanley,214.45,379.26,400,50
+PROD00636,Timberland Boots,Clothing,Footwear,Puma,53.86,118.8,60,40
+PROD00637,Hockey Stick,Sports,Team Sports,Adidas,456.03,784.27,300,150
+PROD00638,Training Jacket,Sports,Sportswear & Accessories,Nike,99.35,177.14,400,50
+PROD00639,Dining Plate Set,Home & Garden,Kitchen & Dining,Home Depot,1417.45,2128.54,200,100
+PROD00640,Educated,Books,Non-Fiction,Scholastic,39.37,71.24,70,30
+PROD00641,Cordless Saw,Home & Garden,Tools & DIY,Stanley,24.57,46.95,300,150
+PROD00642,Sony WH-1000XM5,Electronics,Audio & Headphones,Canon,686.19,1278.05,400,150
+PROD00643,Matilda,Books,Children’s Books,Random House,22.48,44.37,60,50
+PROD00644,Maus,Books,Comics & Graphic Novels,Scholastic,22.33,35.76,70,20
+PROD00645,Dumbbell Set,Sports,Fitness & Gym Equipment,Nike,331.0,625.33,200,50
+PROD00646,Garmin Fenix 7,Electronics,Wearables & Smart Devices,Bose,1234.68,1863.45,500,100
+PROD00647,Bose QuietComfort Ultra,Electronics,Audio & Headphones,Google,303.15,511.69,200,50
+PROD00648,Classic White Shirt,Clothing,Shirts & Tops,Levi's,131.2,252.92,100,60
+PROD00649,Mountain Bike,Sports,Outdoor Sports,Wilson,422.03,813.24,300,50
+PROD00650,Dumbbell Set,Sports,Fitness & Gym Equipment,Nike,32.8,58.23,100,100
+PROD00651,Fitbit Charge 6,Electronics,Wearables & Smart Devices,Samsung,1369.3,2279.08,400,150
+PROD00652,Graphic T-Shirt,Clothing,Shirts & Tops,Zara,76.69,175.07,60,50
+PROD00653,Vans Old Skool,Clothing,Footwear,Adidas,81.78,170.98,50,60
+PROD00654,Patio Furniture Set,Home & Garden,Outdoor & Patio,Stanley,1313.51,2391.48,200,50
+PROD00655,Cargo Pants,Clothing,Pants & Jeans,Levi's,93.45,146.65,200,50
+PROD00656,Graphic T-Shirt,Clothing,Shirts & Tops,H&M,102.24,187.6,50,20
+PROD00657,Training Jacket,Sports,Sportswear & Accessories,Puma,260.29,378.96,300,100
+PROD00658,To Kill a Mockingbird,Books,Fiction,Simon & Schuster,11.21,17.66,60,30
+PROD00659,Snorkel Set,Sports,Water Sports,Spalding,462.1,657.37,100,150
+PROD00660,Office Chair,Home & Garden,Furniture,Wayfair,409.0,566.74,200,150
+PROD00661,Graphic T-Shirt,Clothing,Shirts & Tops,Nike,188.21,435.59,200,60
+PROD00662,Wall Art Painting,Home & Garden,Home Decor,Bosch,73.39,115.89,200,150
+PROD00663,Winter Parka,Clothing,Jackets & Outerwear,Nike,108.79,210.75,100,20
+PROD00664,Educated,Books,Non-Fiction,Scholastic,25.68,49.65,80,25
+PROD00665,Atomic Habits,Books,Non-Fiction,Simon & Schuster,18.9,37.45,100,30
+PROD00666,Snorkel Set,Sports,Water Sports,Puma,207.7,375.79,100,100
+PROD00667,Google Pixel 9 Pro,Electronics,Smartphones & Tablets,Canon,727.23,1100.02,200,50
+PROD00668,Treadmill,Sports,Fitness & Gym Equipment,Wilson,150.0,220.08,400,150
+PROD00669,Swimming Goggles,Sports,Water Sports,Nike,96.8,185.27,300,150
+PROD00670,Batman: Year One,Books,Comics & Graphic Novels,Penguin,14.29,26.74,90,30
+PROD00671,Cargo Pants,Clothing,Pants & Jeans,H&M,132.68,291.01,60,60
+PROD00672,Maus,Books,Comics & Graphic Novels,Random House,46.34,81.44,50,30
+PROD00673,Becoming,Books,Non-Fiction,HarperCollins,22.62,36.29,100,50
+PROD00674,Diary of a Wimpy Kid,Books,Children’s Books,Random House,24.89,38.71,60,25
+PROD00675,Diary of a Wimpy Kid,Books,Children’s Books,HarperCollins,24.7,48.14,60,40
+PROD00676,Blender,Home & Garden,Kitchen & Dining,Ashley Furniture,1150.44,2058.41,300,100
+PROD00677,Charlotte's Web,Books,Children’s Books,Random House,29.43,55.78,90,20
+PROD00678,Samsung Galaxy Watch 6,Electronics,Wearables & Smart Devices,Samsung,1159.66,1810.34,300,50
+PROD00679,Wooden Bed Frame,Home & Garden,Furniture,Ashley Furniture,840.17,1119.32,200,50
+PROD00680,Tent,Sports,Outdoor Sports,Decathlon,292.81,554.53,100,50
+PROD00681,Educated,Books,Non-Fiction,Scholastic,30.54,48.98,100,40
+PROD00682,Sapiens,Books,Non-Fiction,Simon & Schuster,42.99,67.55,200,50
+PROD00683,Cricket Bat,Sports,Team Sports,Decathlon,294.14,455.09,400,150
+PROD00684,iPad Pro 12.9,Electronics,Smartphones & Tablets,Fitbit,997.45,1861.21,100,50
+PROD00685,Mountain Bike,Sports,Outdoor Sports,Adidas,482.91,769.01,200,150
+PROD00686,Wilson Basketball,Sports,Team Sports,Wilson,227.91,353.83,200,50
+PROD00687,Harry Potter,Books,Fiction,HarperCollins,43.93,85.4,70,50
+PROD00688,The Lord of the Rings,Books,Fiction,Penguin,43.15,80.31,90,25
+PROD00689,Denim Jacket,Clothing,Jackets & Outerwear,Zara,187.56,467.49,50,30
+PROD00690,Becoming,Books,Non-Fiction,Scholastic,43.57,79.97,70,50
+PROD00691,Spider-Man: Blue,Books,Comics & Graphic Novels,Random House,42.23,76.32,90,50
+PROD00692,Resistance Bands,Sports,Fitness & Gym Equipment,Spalding,268.91,508.15,100,100
+PROD00693,Beats Studio Pro,Electronics,Audio & Headphones,Google,581.15,1129.08,200,150
+PROD00694,Treadmill,Sports,Fitness & Gym Equipment,Nike,574.64,1021.6,100,50
+PROD00695,Stanley Screwdriver Set,Home & Garden,Tools & DIY,IKEA,158.89,285.07,200,50
+PROD00696,Sleeping Bag,Sports,Outdoor Sports,Wilson,212.36,399.62,100,100
+PROD00697,Garmin Fenix 7,Electronics,Wearables & Smart Devices,Bose,884.73,1414.76,400,150
+PROD00698,Kayak,Sports,Water Sports,Wilson,377.38,535.52,100,50
+PROD00699,HP Spectre x360,Electronics,Laptops & Computers,Dell,803.42,1345.01,500,50
+PROD00700,Pleated Skirt,Clothing,Dresses & Skirts,Uniqlo,155.96,372.17,50,60
+PROD00701,Sony WH-1000XM5,Electronics,Audio & Headphones,HP,1120.35,1768.17,500,150
+PROD00702,Lenovo ThinkPad X1,Electronics,Laptops & Computers,Dell,879.77,1427.36,400,100
+PROD00703,Converse Chuck Taylor,Clothing,Footwear,H&M,71.17,153.51,100,50
+PROD00704,Garmin Fenix 7,Electronics,Wearables & Smart Devices,Bose,637.9,1057.68,200,50
+PROD00705,Sapiens,Books,Non-Fiction,HarperCollins,39.13,59.74,60,40
+PROD00706,Kayak,Sports,Water Sports,Adidas,343.49,676.76,400,50
+PROD00707,Swing Chair,Home & Garden,Outdoor & Patio,Ashley Furniture,291.37,494.42,400,150
+PROD00708,Bookshelf,Home & Garden,Furniture,Bosch,1327.55,2537.56,200,100
+PROD00709,Sofa Set,Home & Garden,Furniture,Home Depot,1051.13,1399.06,400,100
+PROD00710,Harry Potter,Books,Fiction,HarperCollins,38.73,65.87,100,30
+PROD00711,Hiking Backpack,Sports,Outdoor Sports,Decathlon,453.83,769.88,100,50
+PROD00712,Vase,Home & Garden,Home Decor,Ashley Furniture,910.2,1297.5,400,100
+PROD00713,Engineering Mechanics,Books,Educational & Textbooks,Random House,34.65,67.88,60,25
+PROD00714,Cordless Saw,Home & Garden,Tools & DIY,Bosch,1336.82,2152.81,200,50
+PROD00715,Hockey Stick,Sports,Team Sports,Decathlon,677.92,1275.16,200,50
+PROD00716,The Power of Habit,Books,Non-Fiction,Random House,43.23,71.88,200,20
+PROD00717,iPad Pro 12.9,Electronics,Smartphones & Tablets,Bose,407.63,636.12,100,150
+PROD00718,Samsung Galaxy Watch 6,Electronics,Wearables & Smart Devices,Apple,1083.38,1703.36,400,50
+PROD00719,Running Shorts,Sports,Sportswear & Accessories,Spalding,461.76,891.39,300,50
+PROD00720,Sofa Set,Home & Garden,Furniture,Ashley Furniture,915.93,1693.62,400,150
+PROD00721,Vans Old Skool,Clothing,Footwear,Puma,60.04,148.51,50,20
+PROD00722,Exercise Bike,Sports,Fitness & Gym Equipment,Spalding,407.79,695.31,200,50
+PROD00723,The Alchemist,Books,Fiction,HarperCollins,19.46,32.87,100,25
+PROD00724,The Power of Habit,Books,Non-Fiction,Scholastic,33.22,64.13,70,30
+PROD00725,Hiking Backpack,Sports,Outdoor Sports,Wilson,225.28,326.07,100,50
+PROD00726,Educated,Books,Non-Fiction,Penguin,38.87,63.08,80,25
+PROD00727,Snorkel Set,Sports,Water Sports,Nike,449.86,854.68,200,150
+PROD00728,Bose QuietComfort Ultra,Electronics,Audio & Headphones,Dell,707.51,1313.62,200,150
+PROD00729,Hiking Backpack,Sports,Outdoor Sports,Spalding,202.23,298.72,200,50
+PROD00730,The Lord of the Rings,Books,Fiction,Random House,9.57,16.12,200,40
+PROD00731,Atomic Habits,Books,Non-Fiction,Simon & Schuster,17.31,29.06,60,30
+PROD00732,Sleeping Bag,Sports,Outdoor Sports,Adidas,642.32,992.73,100,100
+PROD00733,Leather Jacket,Clothing,Jackets & Outerwear,Puma,50.73,93.7,60,30
+PROD00734,Camping Stove,Sports,Outdoor Sports,Wilson,563.02,863.4,200,150
+PROD00735,The Sandman,Books,Comics & Graphic Novels,Random House,10.25,15.68,200,50
+PROD00736,Cocktail Dress,Clothing,Dresses & Skirts,H&M,76.89,136.62,200,60
+PROD00737,Hammock,Home & Garden,Outdoor & Patio,Home Depot,1478.63,2221.88,100,150
+PROD00738,Denim Jacket,Clothing,Jackets & Outerwear,Nike,167.07,351.85,50,30
+PROD00739,Toolbox Kit,Home & Garden,Tools & DIY,IKEA,48.38,74.73,100,100
+PROD00740,The Sandman,Books,Comics & Graphic Novels,HarperCollins,33.67,59.72,100,20
+PROD00741,Sony WH-1000XM5,Electronics,Audio & Headphones,Apple,1046.74,1758.11,200,150
+PROD00742,Wooden Bed Frame,Home & Garden,Furniture,IKEA,802.17,1173.08,400,50
+PROD00743,Levi's 501 Jeans,Clothing,Pants & Jeans,Levi's,76.1,184.6,60,20
+PROD00744,Jogger Pants,Clothing,Pants & Jeans,Zara,25.54,40.92,100,40
+PROD00745,Hiking Backpack,Sports,Outdoor Sports,Puma,456.36,770.72,200,150
+PROD00746,Hammock,Home & Garden,Outdoor & Patio,IKEA,1264.43,1918.79,300,100
+PROD00747,Baseball Glove,Sports,Team Sports,Puma,682.93,1262.04,200,100
+PROD00748,Calculus Made Easy,Books,Educational & Textbooks,Random House,5.22,10.34,100,30
+PROD00749,Sweatband,Sports,Sportswear & Accessories,Decathlon,399.04,698.64,300,150
+PROD00750,The Power of Habit,Books,Non-Fiction,Scholastic,30.55,54.43,60,30
+PROD00751,Nike Air Force 1,Clothing,Footwear,Zara,110.61,209.84,200,50
+PROD00752,Sapiens,Books,Non-Fiction,Simon & Schuster,13.66,21.43,80,40
+PROD00753,Curtain Set,Home & Garden,Home Decor,IKEA,698.98,981.52,200,100
+PROD00754,Introduction to Psychology,Books,Educational & Textbooks,Random House,36.44,67.74,200,25
+PROD00755,Sofa Set,Home & Garden,Furniture,IKEA,676.77,910.71,200,150
+PROD00756,Evening Gown,Clothing,Dresses & Skirts,Nike,94.43,173.53,60,50
+PROD00757,Exercise Bike,Sports,Fitness & Gym Equipment,Nike,204.0,286.07,400,100
+PROD00758,Charlotte's Web,Books,Children’s Books,Penguin,39.8,78.89,100,50
+PROD00759,Dumbbell Set,Sports,Fitness & Gym Equipment,Adidas,675.26,1001.29,200,150
+PROD00760,Beats Studio Pro,Electronics,Audio & Headphones,Bose,1049.87,1871.36,400,100
+PROD00761,Vans Old Skool,Clothing,Footwear,Puma,116.67,204.28,300,60
+PROD00762,Engineering Mechanics,Books,Educational & Textbooks,HarperCollins,6.6,11.53,200,50
+PROD00763,Mountain Bike,Sports,Outdoor Sports,Decathlon,408.84,707.68,300,100
+PROD00764,Dell XPS 15,Electronics,Laptops & Computers,Fitbit,909.78,1816.6,200,100
+PROD00765,Kayak,Sports,Water Sports,Puma,591.59,831.51,400,50
+PROD00766,MacBook Pro 16,Electronics,Laptops & Computers,Apple,640.2,1197.76,500,50
+PROD00767,Dining Plate Set,Home & Garden,Kitchen & Dining,IKEA,629.1,1131.36,200,150
+PROD00768,Hammock,Home & Garden,Outdoor & Patio,Bosch,765.06,1414.29,300,50
+PROD00769,Denim Jacket,Clothing,Jackets & Outerwear,Zara,54.52,123.2,60,60
+PROD00770,IKEA Dining Table,Home & Garden,Furniture,Stanley,783.74,1026.0,300,100
+PROD00771,Samsung Galaxy Watch 6,Electronics,Wearables & Smart Devices,Fitbit,831.17,1389.65,400,150
+PROD00772,Nikon Z8,Electronics,Cameras & Accessories,Apple,1851.46,2781.71,500,150
+PROD00773,Training Jacket,Sports,Sportswear & Accessories,Decathlon,646.89,1200.79,100,100
+PROD00774,Beats Studio Pro,Electronics,Audio & Headphones,Dell,941.59,1763.17,100,150
+PROD00775,Nike Air Force 1,Clothing,Footwear,Zara,93.71,198.66,50,60
+PROD00776,Sapiens,Books,Non-Fiction,Random House,22.85,37.86,60,50
+PROD00777,Cordless Saw,Home & Garden,Tools & DIY,Wayfair,1216.93,1724.76,400,100
+PROD00778,OnePlus 12,Electronics,Smartphones & Tablets,Samsung,809.35,1428.04,400,100
+PROD00779,Hammock,Home & Garden,Outdoor & Patio,Stanley,391.48,631.77,400,50
+PROD00780,Samsung Galaxy S25,Electronics,Smartphones & Tablets,Fitbit,1894.37,3333.25,200,150
+PROD00781,MacBook Pro 16,Electronics,Laptops & Computers,Canon,790.7,1274.92,500,50
+PROD00782,Harry Potter,Books,Fiction,Scholastic,24.72,41.64,200,40
+PROD00783,Introduction to Psychology,Books,Educational & Textbooks,Random House,5.43,8.87,50,30
+PROD00784,OnePlus 12,Electronics,Smartphones & Tablets,Bose,883.03,1564.47,100,50
+PROD00785,The Power of Habit,Books,Non-Fiction,Scholastic,11.83,20.4,60,25
+PROD00786,Cricket Bat,Sports,Team Sports,Adidas,761.82,1199.36,100,150
+PROD00787,Spider-Man: Blue,Books,Comics & Graphic Novels,Penguin,30.98,50.04,80,40
+PROD00788,Vans Old Skool,Clothing,Footwear,Levi's,81.15,193.04,100,60
+PROD00789,Adidas Ultraboost,Clothing,Footwear,Zara,108.18,240.37,60,50
+PROD00790,Evening Gown,Clothing,Dresses & Skirts,Puma,85.98,208.81,200,40
+PROD00791,The Lord of the Rings,Books,Fiction,HarperCollins,37.52,63.83,60,30
+PROD00792,Beats Studio Pro,Electronics,Audio & Headphones,HP,1727.7,2603.92,100,50
+PROD00793,The Power of Habit,Books,Non-Fiction,Simon & Schuster,10.16,18.94,60,50
+PROD00794,Lenovo ThinkPad X1,Electronics,Laptops & Computers,Apple,1592.43,2796.75,300,50
+PROD00795,Timberland Boots,Clothing,Footwear,Levi's,173.89,378.79,100,50
+PROD00796,Patio Furniture Set,Home & Garden,Outdoor & Patio,IKEA,1420.5,2320.35,100,50
+PROD00797,Adidas Soccer Ball,Sports,Team Sports,Decathlon,350.89,530.91,100,150
+PROD00798,Timberland Boots,Clothing,Footwear,H&M,158.8,292.65,300,50
+PROD00799,Sony Alpha A7 IV,Electronics,Cameras & Accessories,Samsung,1518.4,2879.69,500,150
+PROD00800,Cricket Bat,Sports,Team Sports,Decathlon,119.51,213.46,400,50
+PROD00801,Hockey Stick,Sports,Team Sports,Wilson,32.33,52.48,400,150
+PROD00802,Chino Pants,Clothing,Pants & Jeans,Zara,79.61,163.55,100,50
+PROD00803,Table Lamp,Home & Garden,Home Decor,Home Depot,1001.35,1993.33,300,100
+PROD00804,Garmin Fenix 7,Electronics,Wearables & Smart Devices,Samsung,1190.84,1866.14,200,100
+PROD00805,Stanley Screwdriver Set,Home & Garden,Tools & DIY,Wayfair,102.09,167.35,200,150
+PROD00806,Leather Jacket,Clothing,Jackets & Outerwear,Uniqlo,151.67,321.19,50,40
+PROD00807,Pencil Skirt,Clothing,Dresses & Skirts,H&M,99.56,153.52,200,60
+PROD00808,Sapiens,Books,Non-Fiction,Scholastic,47.35,90.01,60,25
+PROD00809,Sweatband,Sports,Sportswear & Accessories,Puma,169.16,289.0,200,100
+PROD00810,BBQ Grill,Home & Garden,Outdoor & Patio,Stanley,631.48,966.17,400,100
+PROD00811,Stanley Screwdriver Set,Home & Garden,Tools & DIY,Home Depot,849.15,1579.75,100,50
+PROD00812,Introduction to Psychology,Books,Educational & Textbooks,Scholastic,16.85,30.11,80,50
+PROD00813,iPad Pro 12.9,Electronics,Smartphones & Tablets,Google,1871.04,3658.1,300,50
+PROD00814,Toolbox Kit,Home & Garden,Tools & DIY,Wayfair,951.07,1805.93,100,100
+PROD00815,Curtain Set,Home & Garden,Home Decor,IKEA,534.67,745.4,100,50
+PROD00816,The Great Gatsby,Books,Fiction,Scholastic,19.39,38.67,80,30
+PROD00817,Samsung Galaxy S25,Electronics,Smartphones & Tablets,Bose,1355.62,2619.89,200,100
+PROD00818,Casual Polo Shirt,Clothing,Shirts & Tops,Uniqlo,139.47,251.83,300,60
+PROD00819,Graphic T-Shirt,Clothing,Shirts & Tops,Uniqlo,90.19,216.41,60,40
+PROD00820,Nikon Z8,Electronics,Cameras & Accessories,Fitbit,946.79,1544.49,400,50
+PROD00821,Denim Shirt,Clothing,Shirts & Tops,Puma,135.99,302.68,50,30
+PROD00822,Coffee Maker,Home & Garden,Kitchen & Dining,Stanley,1378.37,2219.31,400,150
+PROD00823,Educated,Books,Non-Fiction,Simon & Schuster,15.17,24.62,80,50
+PROD00824,Snorkel Set,Sports,Water Sports,Adidas,321.96,479.48,400,100
+PROD00825,Batman: Year One,Books,Comics & Graphic Novels,Penguin,18.84,33.52,70,20
+PROD00826,Leather Jacket,Clothing,Jackets & Outerwear,Puma,133.62,329.15,60,40
+PROD00827,Charlotte's Web,Books,Children’s Books,Penguin,27.25,41.54,50,50
+PROD00828,Windbreaker,Clothing,Jackets & Outerwear,Uniqlo,197.6,367.93,200,30
+PROD00829,Beats Studio Pro,Electronics,Audio & Headphones,Canon,1882.36,3401.32,300,150
+PROD00830,Charlotte's Web,Books,Children’s Books,Simon & Schuster,8.58,16.32,60,40
+PROD00831,Blazer Jacket,Clothing,Jackets & Outerwear,Adidas,190.45,457.23,60,40
+PROD00832,Cricket Bat,Sports,Team Sports,Puma,586.82,1056.34,300,50
+PROD00833,Pencil Skirt,Clothing,Dresses & Skirts,Puma,122.91,185.84,300,40
+PROD00834,Wooden Bed Frame,Home & Garden,Furniture,Ashley Furniture,1268.87,2207.14,100,50
+PROD00835,The Alchemist,Books,Fiction,Random House,30.4,46.81,90,20
+PROD00836,Hiking Backpack,Sports,Outdoor Sports,Puma,306.96,493.16,200,50
+PROD00837,Cocktail Dress,Clothing,Dresses & Skirts,H&M,151.12,295.69,300,60
+PROD00838,Hockey Stick,Sports,Team Sports,Adidas,681.97,1258.78,300,50
+PROD00839,Coffee Maker,Home & Garden,Kitchen & Dining,Wayfair,887.96,1264.68,300,50
+PROD00840,Wilson Basketball,Sports,Team Sports,Decathlon,353.18,616.57,400,50
+PROD00841,Samsung Galaxy Buds 3,Electronics,Audio & Headphones,Apple,1008.44,1529.44,400,150
+PROD00842,Adidas Soccer Ball,Sports,Team Sports,Spalding,768.14,1379.96,100,150
+PROD00843,Timberland Boots,Clothing,Footwear,Nike,37.04,83.99,300,40
+PROD00844,Camping Stove,Sports,Outdoor Sports,Decathlon,527.09,784.75,200,150
+PROD00845,Sofa Set,Home & Garden,Furniture,Ashley Furniture,622.82,910.92,300,50
+PROD00846,To Kill a Mockingbird,Books,Fiction,HarperCollins,36.37,69.42,50,25
+PROD00847,Life Jacket,Sports,Water Sports,Adidas,732.84,1194.13,200,150
+PROD00848,MacBook Pro 16,Electronics,Laptops & Computers,Google,926.43,1814.86,300,50
+PROD00849,Wooden Bed Frame,Home & Garden,Furniture,Bosch,732.42,1014.07,300,150
+PROD00850,Levi's 501 Jeans,Clothing,Pants & Jeans,Uniqlo,62.05,132.31,300,20
+PROD00851,Mountain Bike,Sports,Outdoor Sports,Nike,783.51,1301.43,400,150
+PROD00852,iPhone 15 Pro,Electronics,Smartphones & Tablets,Canon,1887.6,3672.0,500,50
+PROD00853,Table Lamp,Home & Garden,Home Decor,Ashley Furniture,70.59,94.34,200,150
+PROD00854,Samsung Galaxy Watch 6,Electronics,Wearables & Smart Devices,Bose,1110.6,1981.78,500,50
+PROD00855,The Sandman,Books,Comics & Graphic Novels,Random House,34.62,66.98,200,20
+PROD00856,Baseball Glove,Sports,Team Sports,Adidas,386.89,740.87,100,100
+PROD00857,Windbreaker,Clothing,Jackets & Outerwear,Nike,48.61,112.47,300,30
+PROD00858,Adidas Soccer Ball,Sports,Team Sports,Decathlon,420.8,691.18,400,150
+PROD00859,Baseball Glove,Sports,Team Sports,Puma,315.99,600.04,400,100
+PROD00860,Hammock,Home & Garden,Outdoor & Patio,IKEA,1028.72,1815.02,300,150
+PROD00861,Leather Jacket,Clothing,Jackets & Outerwear,Adidas,100.21,246.61,60,50
+PROD00862,Dumbbell Set,Sports,Fitness & Gym Equipment,Adidas,712.14,1092.26,300,150
+PROD00863,To Kill a Mockingbird,Books,Fiction,Penguin,32.97,52.13,50,40
+PROD00864,Lenovo ThinkPad X1,Electronics,Laptops & Computers,HP,1099.36,1895.59,100,100
+PROD00865,Levi's 501 Jeans,Clothing,Pants & Jeans,Nike,44.78,101.28,60,30
+PROD00866,Fitbit Charge 6,Electronics,Wearables & Smart Devices,HP,1203.77,2252.66,300,150
+PROD00867,Batman: Year One,Books,Comics & Graphic Novels,Simon & Schuster,29.54,56.21,80,20
+PROD00868,OnePlus 12,Electronics,Smartphones & Tablets,Canon,1830.81,3440.9,300,150
+PROD00869,Cordless Saw,Home & Garden,Tools & DIY,IKEA,205.87,317.53,200,100
+PROD00870,Introduction to Psychology,Books,Educational & Textbooks,HarperCollins,20.34,32.61,100,40
+PROD00871,Swimming Goggles,Sports,Water Sports,Spalding,486.62,767.34,400,50
+PROD00872,Dumbbell Set,Sports,Fitness & Gym Equipment,Decathlon,245.22,376.18,200,100
+PROD00873,Cordless Saw,Home & Garden,Tools & DIY,Stanley,965.72,1767.62,100,100
+PROD00874,Educated,Books,Non-Fiction,HarperCollins,26.58,51.88,50,20
+PROD00875,Becoming,Books,Non-Fiction,HarperCollins,26.31,51.78,60,20
+PROD00876,Camping Stove,Sports,Outdoor Sports,Wilson,25.98,36.45,300,50
+PROD00877,Life Jacket,Sports,Water Sports,Wilson,749.96,1181.79,200,100
+PROD00878,Becoming,Books,Non-Fiction,HarperCollins,34.79,61.83,60,20
+PROD00879,Spider-Man: Blue,Books,Comics & Graphic Novels,Penguin,34.53,59.41,100,25
+PROD00880,The Sandman,Books,Comics & Graphic Novels,Simon & Schuster,31.49,51.52,200,30
+PROD00881,Calculus Made Easy,Books,Educational & Textbooks,Simon & Schuster,16.57,32.81,60,50
+PROD00882,Apple Watch Series 9,Electronics,Wearables & Smart Devices,Fitbit,1242.49,2333.97,200,100
+PROD00883,Garmin Fenix 7,Electronics,Wearables & Smart Devices,HP,1215.01,2349.06,100,50
+PROD00884,Sony Alpha A7 IV,Electronics,Cameras & Accessories,HP,879.18,1503.3,300,50
+PROD00885,Leather Jacket,Clothing,Jackets & Outerwear,Uniqlo,32.46,68.94,200,20
+PROD00886,Hammock,Home & Garden,Outdoor & Patio,Bosch,621.98,1232.21,300,50
+PROD00887,The Lord of the Rings,Books,Fiction,Penguin,36.15,69.42,200,20
+PROD00888,MacBook Pro 16,Electronics,Laptops & Computers,HP,1347.57,2210.27,400,100
+PROD00889,Formal Blue Shirt,Clothing,Shirts & Tops,Puma,38.46,79.04,100,50
+PROD00890,iPhone 15 Pro,Electronics,Smartphones & Tablets,Dell,1720.53,3326.73,100,50
+PROD00891,Summer Maxi Dress,Clothing,Dresses & Skirts,Adidas,133.26,326.88,300,50
+PROD00892,IKEA Dining Table,Home & Garden,Furniture,Wayfair,684.27,1177.06,400,100
+PROD00893,Formal Blue Shirt,Clothing,Shirts & Tops,H&M,59.49,106.75,60,50
+PROD00894,Training Jacket,Sports,Sportswear & Accessories,Spalding,182.89,318.36,200,50
+PROD00895,Canon EOS R6,Electronics,Cameras & Accessories,Apple,1995.44,3420.5,500,50
+PROD00896,Kettlebell,Sports,Fitness & Gym Equipment,Puma,496.81,755.49,400,50
+PROD00897,Sports T-Shirt,Sports,Sportswear & Accessories,Decathlon,77.55,127.28,300,50
+PROD00898,Asus ROG Zephyrus,Electronics,Laptops & Computers,Dell,1280.69,2425.03,400,50
+PROD00899,Winter Parka,Clothing,Jackets & Outerwear,Adidas,93.65,184.73,60,40
+PROD00900,Matilda,Books,Children’s Books,Penguin,39.69,78.34,60,50
+PROD00901,Fitbit Charge 6,Electronics,Wearables & Smart Devices,Samsung,494.77,959.49,500,50
+PROD00902,Canon EOS R6,Electronics,Cameras & Accessories,Apple,1586.98,2579.04,300,50
+PROD00903,Matilda,Books,Children’s Books,Simon & Schuster,30.69,46.57,50,50
+PROD00904,Windbreaker,Clothing,Jackets & Outerwear,Uniqlo,21.17,35.46,50,50
+PROD00905,Measuring Tape,Home & Garden,Tools & DIY,IKEA,742.9,1395.15,200,100
+PROD00906,Pleated Skirt,Clothing,Dresses & Skirts,H&M,20.76,44.74,200,60
+PROD00907,Bose QuietComfort Ultra,Electronics,Audio & Headphones,Google,1899.07,3728.47,500,100
+PROD00908,iPad Pro 12.9,Electronics,Smartphones & Tablets,Google,978.58,1940.24,300,150
+PROD00909,Harry Potter,Books,Fiction,Scholastic,11.44,18.85,70,25
+PROD00910,Oura Ring Gen3,Electronics,Wearables & Smart Devices,HP,314.75,508.99,100,50
+PROD00911,Winter Parka,Clothing,Jackets & Outerwear,Uniqlo,60.98,145.51,100,50
+PROD00912,Training Jacket,Sports,Sportswear & Accessories,Wilson,618.23,942.13,200,50
+PROD00913,Samsung Galaxy Watch 6,Electronics,Wearables & Smart Devices,Bose,397.98,776.52,200,50
+PROD00914,Kayak,Sports,Water Sports,Adidas,63.19,106.59,200,100
+PROD00915,IKEA Dining Table,Home & Garden,Furniture,Wayfair,981.93,1837.01,300,100
+PROD00916,Cocktail Dress,Clothing,Dresses & Skirts,Adidas,32.32,50.97,100,30
+PROD00917,Cookware Set,Home & Garden,Kitchen & Dining,Bosch,1051.43,1577.78,100,50
+PROD00918,Data Science for Dummies,Books,Educational & Textbooks,Scholastic,6.55,10.31,80,20
+PROD00919,Watchmen,Books,Comics & Graphic Novels,Random House,40.64,71.79,50,50
+PROD00920,Cocktail Dress,Clothing,Dresses & Skirts,Puma,20.11,38.78,50,40
+PROD00921,Sleeping Bag,Sports,Outdoor Sports,Spalding,499.82,731.35,400,50
+PROD00922,Adidas Soccer Ball,Sports,Team Sports,Adidas,20.47,40.9,200,150
+PROD00923,Winter Parka,Clothing,Jackets & Outerwear,Zara,97.27,192.52,200,20
+PROD00924,MacBook Pro 16,Electronics,Laptops & Computers,Sony,1143.0,1719.17,300,150
+PROD00925,Formal Blue Shirt,Clothing,Shirts & Tops,Zara,38.7,59.43,200,50
+PROD00926,Maus,Books,Comics & Graphic Novels,HarperCollins,17.68,33.7,100,20
+PROD00927,Hiking Backpack,Sports,Outdoor Sports,Decathlon,326.38,513.17,300,50
+PROD00928,Nike Air Force 1,Clothing,Footwear,Uniqlo,24.72,51.94,200,60
+PROD00929,Adidas Soccer Ball,Sports,Team Sports,Nike,464.44,836.45,200,100
+PROD00930,Apple Watch Series 9,Electronics,Wearables & Smart Devices,Bose,1873.99,2868.99,500,50
+PROD00931,Beats Studio Pro,Electronics,Audio & Headphones,Apple,464.83,768.08,200,150
+PROD00932,Garden Umbrella,Home & Garden,Outdoor & Patio,Bosch,367.6,692.26,100,150
+PROD00933,Sony Alpha A7 IV,Electronics,Cameras & Accessories,Google,1793.65,2810.11,200,50
+PROD00934,Sony WH-1000XM5,Electronics,Audio & Headphones,Canon,598.61,1147.61,100,100
+PROD00935,Charlotte's Web,Books,Children’s Books,HarperCollins,10.05,18.46,50,25
+PROD00936,Patio Furniture Set,Home & Garden,Outdoor & Patio,Stanley,824.16,1078.25,100,50
+PROD00937,Classic White Shirt,Clothing,Shirts & Tops,Adidas,78.03,169.78,100,50
+PROD00938,Swimming Goggles,Sports,Water Sports,Spalding,147.43,220.2,400,150
+PROD00939,Beats Studio Pro,Electronics,Audio & Headphones,Google,332.56,523.27,200,100
+PROD00940,Patio Furniture Set,Home & Garden,Outdoor & Patio,Wayfair,1270.56,2117.57,300,150
+PROD00941,Toolbox Kit,Home & Garden,Tools & DIY,Stanley,159.75,293.16,100,100
+PROD00942,Training Jacket,Sports,Sportswear & Accessories,Nike,357.02,688.53,400,150
+PROD00943,Lenovo ThinkPad X1,Electronics,Laptops & Computers,Samsung,724.91,1204.35,500,50
+PROD00944,Bookshelf,Home & Garden,Furniture,Wayfair,1402.8,2663.28,200,50
+PROD00945,Yoga Pants,Sports,Sportswear & Accessories,Decathlon,340.61,545.96,200,150
+PROD00946,Denim Shirt,Clothing,Shirts & Tops,Puma,75.42,164.4,50,20
+PROD00947,Table Lamp,Home & Garden,Home Decor,Stanley,750.56,1349.38,200,150
+PROD00948,Green Eggs and Ham,Books,Children’s Books,Penguin,40.83,78.42,80,40
+PROD00949,Harry Potter,Books,Fiction,HarperCollins,36.69,71.53,90,25
+PROD00950,Casual Polo Shirt,Clothing,Shirts & Tops,Zara,57.89,117.13,50,40
+PROD00951,Google Pixel 9 Pro,Electronics,Smartphones & Tablets,Fitbit,1214.94,2276.02,400,100
+PROD00952,Graphic T-Shirt,Clothing,Shirts & Tops,Levi's,24.87,40.34,200,20
+PROD00953,Fitbit Charge 6,Electronics,Wearables & Smart Devices,Google,1138.12,2227.33,400,150
+PROD00954,Introduction to Psychology,Books,Educational & Textbooks,Random House,46.85,78.7,60,25
+PROD00955,Toolbox Kit,Home & Garden,Tools & DIY,Bosch,771.33,1249.51,100,150
+PROD00956,Summer Maxi Dress,Clothing,Dresses & Skirts,Levi's,121.19,259.4,50,60
+PROD00957,Samsung Galaxy Watch 6,Electronics,Wearables & Smart Devices,Bose,1085.56,2028.79,100,150
+PROD00958,Pleated Skirt,Clothing,Dresses & Skirts,Uniqlo,80.12,194.52,100,40
+PROD00959,Camping Stove,Sports,Outdoor Sports,Wilson,72.57,126.96,300,100
+PROD00960,Vans Old Skool,Clothing,Footwear,Levi's,123.65,232.65,50,60
+PROD00961,Fitbit Charge 6,Electronics,Wearables & Smart Devices,Samsung,1369.63,2249.0,100,150
+PROD00962,Denim Shirt,Clothing,Shirts & Tops,H&M,36.47,85.95,50,40
+PROD00963,Batman: Year One,Books,Comics & Graphic Novels,Scholastic,32.89,58.38,60,40
+PROD00964,iPad Pro 12.9,Electronics,Smartphones & Tablets,Google,626.45,969.18,400,100
+PROD00965,Treadmill,Sports,Fitness & Gym Equipment,Decathlon,79.56,132.79,100,50
+PROD00966,Graphic T-Shirt,Clothing,Shirts & Tops,Zara,45.41,110.18,200,50
+PROD00967,Summer Maxi Dress,Clothing,Dresses & Skirts,Puma,189.14,396.22,300,40
+PROD00968,Training Jacket,Sports,Sportswear & Accessories,Spalding,84.98,137.29,100,150
+PROD00969,Denim Shirt,Clothing,Shirts & Tops,Puma,160.19,398.67,60,30
+PROD00970,GoPro Hero 12,Electronics,Cameras & Accessories,Samsung,523.77,1002.62,500,100
+PROD00971,Spider-Man: Blue,Books,Comics & Graphic Novels,Simon & Schuster,19.9,32.64,80,50
+PROD00972,Cocktail Dress,Clothing,Dresses & Skirts,Nike,62.07,121.09,60,40
+PROD00973,Sofa Set,Home & Garden,Furniture,IKEA,1042.52,1777.24,200,50
+PROD00974,Dining Plate Set,Home & Garden,Kitchen & Dining,IKEA,679.78,915.7,300,100
+PROD00975,Resistance Bands,Sports,Fitness & Gym Equipment,Adidas,264.01,430.69,200,150
+PROD00976,Summer Maxi Dress,Clothing,Dresses & Skirts,Levi's,22.05,50.3,50,60
+PROD00977,Windbreaker,Clothing,Jackets & Outerwear,Adidas,154.93,375.14,50,30
+PROD00978,Resistance Bands,Sports,Fitness & Gym Equipment,Decathlon,691.05,1289.0,200,100
+PROD00979,Casual Polo Shirt,Clothing,Shirts & Tops,Adidas,154.04,286.61,50,20
+PROD00980,Adidas Soccer Ball,Sports,Team Sports,Wilson,89.16,157.45,300,100
+PROD00981,Bose QuietComfort Ultra,Electronics,Audio & Headphones,Sony,1052.13,1737.67,200,150
+PROD00982,Green Eggs and Ham,Books,Children’s Books,Random House,16.9,32.26,70,30
+PROD00983,Maus,Books,Comics & Graphic Novels,Penguin,16.23,29.36,50,25
+PROD00984,Kayak,Sports,Water Sports,Puma,471.99,691.55,100,100
+PROD00985,Oura Ring Gen3,Electronics,Wearables & Smart Devices,Samsung,567.92,1081.3,200,100
+PROD00986,Exercise Bike,Sports,Fitness & Gym Equipment,Adidas,405.85,736.86,200,50
+PROD00987,Levi's 501 Jeans,Clothing,Pants & Jeans,H&M,138.94,294.23,200,40
+PROD00988,Beats Studio Pro,Electronics,Audio & Headphones,Google,1136.85,1896.99,200,150
+PROD00989,To Kill a Mockingbird,Books,Fiction,Penguin,26.18,50.33,80,20
+PROD00990,Kettlebell,Sports,Fitness & Gym Equipment,Decathlon,729.55,1060.48,100,150
+PROD00991,The Alchemist,Books,Fiction,Penguin,28.0,51.07,100,30
+PROD00992,Charlotte's Web,Books,Children’s Books,Penguin,40.06,63.01,80,40
+PROD00993,IKEA Dining Table,Home & Garden,Furniture,Ashley Furniture,1087.48,1432.77,100,150
+PROD00994,Green Eggs and Ham,Books,Children’s Books,Scholastic,18.05,30.38,200,20
+PROD00995,Surfboard,Sports,Water Sports,Nike,695.99,1250.11,100,50
+PROD00996,Area Rug,Home & Garden,Home Decor,Home Depot,158.27,287.02,300,100
+PROD00997,Graphic T-Shirt,Clothing,Shirts & Tops,H&M,27.78,53.24,300,30
+PROD00998,Sofa Set,Home & Garden,Furniture,Ashley Furniture,600.18,967.28,100,150
+PROD00999,The Great Gatsby,Books,Fiction,Simon & Schuster,28.25,43.19,90,50
+PROD01000,The Great Gatsby,Books,Fiction,HarperCollins,28.22,53.38,100,20
